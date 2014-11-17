@@ -1,0 +1,45 @@
+#!/bin/bash
+app=ofbiz
+
+# Retrieve arguments
+domain=$1
+path=$2
+admin=$3
+is_public=$4
+
+# Save app settings
+sudo yunohost app setting $app admin -v "$admin"
+sudo yunohost app setting $app is_public -v "$is_public"
+apt-get install openjdk-7-jdk -y
+apt-get install postgre -y
+
+# Check domain/path availability
+sudo yunohost app checkurl $domain$path -a ofbiz
+if [[ ! $? -eq 0 ]]; then
+    exit 1
+fi
+
+# Copy source files
+final_path=/var/www/$app
+app_path=/catalog/control/main
+sudo mkdir -p $final_path
+sudo cp -a ../sources/* $final_path
+sudo cp $final_path/tools/rc.ofbiz.for.debian /etc/init.d/ofbiz
+sudo chmod +x /etc/init.d/ofbiz
+update-rc.d ofbiz defaults 90
+
+# Modify Nginx configuration file and copy it to Nginx conf directory
+sed -i "s@YNH_WWW_PATH@$path@g" ../conf/nginx.conf
+sed -i "s@YNH_WWW_ALIAS:8444@$app_path/@g" ../conf/nginx.conf
+sudo cp ../conf/nginx.conf /etc/nginx/conf.d/$domain.d/$app.conf
+
+# If app is public, add url to SSOWat conf as skipped_uris
+if [ "$is_public" != "No" ];
+then
+  sudo yunohost app setting $app skipped_uris -v "/"
+fi
+
+# Restart services
+sudo service nginx reload
+sudo yunohost app ssowatconf
+sudo ofbiz start

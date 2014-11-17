@@ -1,0 +1,36 @@
+{
+    "name": "Apache-OFBiz",
+    "id": "apacheofbiz",
+    "description": {
+        "en": "Apache-OFBiz ERP"
+        "fr": "L'ERP de gestion d'entreprise Apache-OFBiz"
+    },
+    "licence": "APACHE",
+    "developer": {
+        "name": "Julien NICOLAS",
+        "email": "julien.nicolas@nomaka.fr",
+        "url": "http://nomaka.fr"
+    },
+    "multi_instance": "false",
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "ask": {
+                    "en": "Choose a domain for Apache-OFBiz"
+                    "fr": "choisissez un domaine pour Apache-OFBiz"
+                },
+                "example": "example.com"
+            },
+            {
+                "name": "path",
+                "ask": {
+                    "en": "Choose a path for Apache-OFBiz"
+                    "fr": "Choisissez un domaine pour Apache-OFBiz"
+                },
+                "example": "/ofbiz",
+                "default": "/ofbiz"
+            }
+        ]
+    }
+}
