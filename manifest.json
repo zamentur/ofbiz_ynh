@@ -2,7 +2,7 @@
     "name": "OFBiz",
     "id": "ofbiz",
     "description": {
-        "en": "Apache-OFBiz ERP"
+        "en": "Apache-OFBiz ERP",
         "fr": "L'ERP de gestion d'entreprise Apache-OFBiz"
     },
     "developer": {
@@ -16,7 +16,7 @@
             {
                 "name": "domain",
                 "ask": {
-                    "en": "Choose a domain for Apache-OFBiz"
+                    "en": "Choose a domain for Apache-OFBiz",
                     "fr": "choisissez un domaine pour Apache-OFBiz"
                 },
                 "example": "domain.org"
@@ -24,7 +24,7 @@
             {
                 "name": "path",
                 "ask": {
-                    "en": "Choose a path for Apache-OFBiz"
+                    "en": "Choose a path for Apache-OFBiz",
                     "fr": "Choisissez un domaine pour Apache-OFBiz"
                 },
                 "example": "/ofbiz",
