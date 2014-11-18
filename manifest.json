@@ -1,11 +1,10 @@
 {
-    "name": "Apache-OFBiz",
-    "id": "apacheofbiz",
+    "name": "OFBiz",
+    "id": "ofbiz",
     "description": {
         "en": "Apache-OFBiz ERP"
         "fr": "L'ERP de gestion d'entreprise Apache-OFBiz"
     },
-    "licence": "APACHE",
     "developer": {
         "name": "Julien NICOLAS",
         "email": "julien.nicolas@nomaka.fr",
@@ -20,7 +19,7 @@
                     "en": "Choose a domain for Apache-OFBiz"
                     "fr": "choisissez un domaine pour Apache-OFBiz"
                 },
-                "example": "example.com"
+                "example": "domain.org"
             },
             {
                 "name": "path",
