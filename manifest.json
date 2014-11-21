@@ -34,6 +34,14 @@
 				},
 				"example": "/ofbiz",
 				"default": "/ofbiz"
+			},
+			{
+				"name": "admin",
+				"ask": {
+					"en": "Choose the OFBiz administrator (must be an existing YunoHost user)"
+					"fr": "Choisissez l'administrateur OFBiz (doit être un utilisateur YunoHost existant)"
+				},
+				"example": "littlejohn"
 			}
 		]
 	}
