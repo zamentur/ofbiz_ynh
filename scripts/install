@@ -10,11 +10,11 @@ is_public=$4
 # Save app settings
 #yunohost app setting $app admin -v "$admin"
 #yunohost app setting $app is_public -v "$is_public"
-apt-get install openjdk-7-jdk -y
+sudo apt-get install openjdk-7-jdk -y
 #apt-get install postgre -y
 
 # Check domain/path availability
-yunohost app checkurl $domain$path -a ofbiz
+sudo yunohost app checkurl $domain$path -a ofbiz
 if [[ ! $? -eq 0 ]]; then
     exit 1
 fi
@@ -23,16 +23,16 @@ fi
 final_path=/var/www/$app
 app_path=/opt/ofbiz
 uri_path=/catalog/control/main
-mkdir -p $final_path
-mkdir -p $app_path
-cp -a ../sources/* $app_path
-cp $app_path/tools/rc.ofbiz.for.debian /etc/init.d/ofbiz
+sudo mkdir -p $final_path
+sudo mkdir -p $app_path
+sudo cp -a ../sources/* $app_path
+sudo cp $app_path/tools/rc.ofbiz.for.debian /etc/init.d/ofbiz
 cd /etc/init.d/
-chmod +x ofbiz
-update-rc.d ofbiz defaults 90
+sudo chmod +x ofbiz
+sudo update-rc.d ofbiz defaults 90
 echo 'alias ofbiz='\''/etc/init.d/ofbiz'\' >> ~/.bashrc
 cd /opt/ofbiz
-. ant
+sudo . ant
 
 # Modify Nginx configuration file and copy it to Nginx conf directory
 #sed -i "s@YNH_WWW_PATH@$path@g" ../conf/nginx.conf
@@ -46,6 +46,6 @@ cd /opt/ofbiz
 #fi
 
 # Restart services
-service nginx reload
-yunohost app ssowatconf
-ofbiz start
+sudo service nginx reload
+sudo yunohost app ssowatconf
+sudo ofbiz start
