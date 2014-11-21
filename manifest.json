@@ -29,7 +29,7 @@
 			{
 				"name": "path",
 				"ask": {
-					"en": "Choose a path for Mediawiki",
+					"en": "Choose a path for Apache-OFBiz",
 					"fr": "Choisissez un chemin d'accès pour Apache-OFBiz"
 				},
 				"example": "/ofbiz",
