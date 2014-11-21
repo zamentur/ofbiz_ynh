@@ -11,6 +11,7 @@ is_public=$4
 #yunohost app setting $app admin -v "$admin"
 #yunohost app setting $app is_public -v "$is_public"
 sudo apt-get install openjdk-7-jdk -y
+sudo apt-get install ant -y
 #apt-get install postgre -y
 
 # Check domain/path availability
@@ -31,6 +32,10 @@ cd /etc/init.d/
 sudo chmod +x ofbiz
 sudo update-rc.d ofbiz defaults 90
 echo 'alias ofbiz='\''/etc/init.d/ofbiz'\' >> ~/.bashrc
+sudo useradd $admin
+sudo mkpasswd ofbiz
+sudo chown $admin /opt/ofbiz
+sudo chmod u+r /opt/ofbiz
 cd /opt/ofbiz
 sudo . ant
 
