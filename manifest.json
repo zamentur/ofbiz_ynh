@@ -1,35 +1,40 @@
 {
-    "name": "OFBiz",
-    "id": "ofbiz",
-    "description": {
-        "en": "Apache-OFBiz ERP",
-        "fr": "L'ERP de gestion d'entreprise Apache-OFBiz"
-    },
-    "developer": {
-        "name": "Julien NICOLAS",
-        "email": "julien.nicolas@nomaka.fr",
-        "url": "http://nomaka.fr"
-    },
-    "multi_instance": "false",
-    "arguments": {
-        "install" : [
-            {
-                "name": "domain",
-                "ask": {
-                    "en": "Choose a domain for Apache-OFBiz",
-                    "fr": "choisissez un domaine pour Apache-OFBiz"
-                },
-                "example": "domain.org"
-            },
-            {
-                "name": "path",
-                "ask": {
-                    "en": "Choose a path for Apache-OFBiz",
-                    "fr": "Choisissez un domaine pour Apache-OFBiz"
-                },
-                "example": "/ofbiz",
-                "default": "/ofbiz"
-            }
-        ]
-    }
+	"name": "OFBiz",
+	"id": "ofbiz",
+
+	"description": {
+		"en": "Apache-OFBiz ERP",
+		"fr": "L'ERP de gestion d'entreprise Apache-OFBiz"
+	},
+
+	"developer": {
+	"name": "JulienNICOLAS",
+	"email": "julien.nicolas@nomaka.fr",
+	"url": "http://www.nomaka.fr/"
+	},
+
+	"multi_instance": "false",
+
+	"arguments": {
+		"install": [
+			{
+				"name": "domain",
+				"ask": {
+					"en": "Choose a domain for Apache-OFBiz",
+					"fr": "Choisissez un domaine pour Apache-OFBiz"
+				},
+				"example": "domain.org"
+			},
+			
+			{
+				"name": "path",
+				"ask": {
+					"en": "Choose a path for Mediawiki",
+					"fr": "Choisissez un chemin d'accès pour Apache-OFBiz"
+				},
+				"example": "/ofbiz",
+				"default": "/ofbiz"
+			}
+		]
+	}
 }
