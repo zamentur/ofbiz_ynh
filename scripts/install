@@ -41,11 +41,11 @@ sudo . ant
 
 # Modify ofbiz deamon script configuration
 sed -i "s@YNH_USER_ADMIN@$admin@g" ../conf/rc.ofbiz.for.debian
-sudo cp -a ../conf/rc.ofbiz.for.debian /etc/init.d/ofbiz
+sudo cp ../conf/rc.ofbiz.for.debian /etc/init.d/ofbiz
 cd /etc/init.d/
 sudo chmod +x ofbiz
 sudo update-rc.d ofbiz defaults 90
-echo 'alias ofbiz='\''/etc/init.d/ofbiz'\' >> ~/.bashrc
+sudo echo 'alias ofbiz='\''/etc/init.d/ofbiz'\' >> /root/.bashrc
 
 # Modify Nginx configuration file and copy it to Nginx conf directory
 #sed -i "s@YNH_WWW_PATH@$path@g" ../conf/nginx.conf
