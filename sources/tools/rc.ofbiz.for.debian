@@ -34,7 +34,7 @@
 ### END INIT INFO
 
 # Paths - Edit for your locations
-JAVA_BINARY=/usr/java/j2sdk1.4.2/bin/java
+JAVA_BINARY=/usr/lib/jvm/java-7-openjdk-amd64/bin/java
 OFBIZ_HOME=/home/ofbiz/ofbiz
 OFBIZ_LOG=$OFBIZ_HOME/runtime/logs/console.log
 
