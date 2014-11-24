@@ -8,12 +8,14 @@ admin=$(yunohost app setting $app admin)
 is_public=$(yunohost app setting $app is_public)
 
 # Remove sources
-rm -rf /var/www/$app
-rm -rf /opt/ofbiz
+sudo rm -rf /var/www/$app
+sudo rm -rf /opt/ofbiz
 
 # Remove configuration files
-rm -f /etc/nginx/conf.d/$domain.d/$app.conf
+sudo rm -f /etc/nginx/conf.d/$domain.d/$app.conf
+
+sudo sed '/^ofbiz/ d' /root/.bashrc
 
 # Restart services
-service nginx reload
-yunohost app ssowatconf
+sudo service nginx reload
+sudo yunohost app ssowatconf
