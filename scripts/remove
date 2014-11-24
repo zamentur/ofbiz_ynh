@@ -10,6 +10,7 @@ is_public=$(yunohost app setting $app is_public)
 # Remove sources
 sudo rm -rf /var/www/$app
 sudo rm -rf /opt/ofbiz
+sudo rm -rf /etc/init.d/ofbiz
 
 # Remove configuration files
 sudo rm -f /etc/nginx/conf.d/$domain.d/$app.conf
