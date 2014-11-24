@@ -33,7 +33,7 @@
 # Description: OFBiz ERP Software
 ### END INIT INFO
 # Paths - Edit for your locations
-JAVA_BINARY=/usr/java/j2sdk1.4.2/bin/java
+JAVA_BINARY=/usr/lib/jvm/java-7-openjdk-amd64/bin/java
 OFBIZ_HOME=/opt/ofbiz
 OFBIZ_LOG=$OFBIZ_HOME/runtime/logs/console.log
 # VM Options
