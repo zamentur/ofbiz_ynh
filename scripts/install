@@ -7,8 +7,15 @@ path=$2
 admin=$3
 is_public=$4
 
+# Check user parameter
+sudo yunohost user list --json | grep -q "\"username\": \"$user\""
+if [[ ! $? -eq 0 ]]; then
+    echo "Wrong user"
+    exit 1
+fi
+
 # Save app settings
-#yunohost app setting $app admin -v "$admin"
+yunohost app setting $app admin -v "$admin"
 #yunohost app setting $app is_public -v "$is_public"
 sudo apt-get install openjdk-7-jdk -y
 sudo apt-get install ant -y
@@ -27,17 +34,18 @@ uri_path=/catalog/control/main
 sudo mkdir -p $final_path
 sudo mkdir -p $app_path
 sudo cp -a ../sources/* $app_path
-sudo cp $app_path/tools/rc.ofbiz.for.debian /etc/init.d/ofbiz
-cd /etc/init.d/
-sudo chmod +x ofbiz
-sudo update-rc.d ofbiz defaults 90
-echo 'alias ofbiz='\''/etc/init.d/ofbiz'\' >> ~/.bashrc
-sudo useradd $admin
-sudo mkpasswd ofbiz
 sudo chown $admin /opt/ofbiz
 sudo chmod u+r /opt/ofbiz
 cd /opt/ofbiz
 sudo . ant
+
+# Modify ofbiz deamon script configuration
+sed -i "s@YNH_USER_ADMIN@$admin@g" ../conf/rc.ofbiz.for.debian
+sudo cp -a ../conf/rc.ofbiz.for.debian /etc/init.d/ofbiz
+cd /etc/init.d/
+sudo chmod +x ofbiz
+sudo update-rc.d ofbiz defaults 90
+echo 'alias ofbiz='\''/etc/init.d/ofbiz'\' >> ~/.bashrc
 
 # Modify Nginx configuration file and copy it to Nginx conf directory
 #sed -i "s@YNH_WWW_PATH@$path@g" ../conf/nginx.conf
