@@ -8,9 +8,9 @@ admin=$3
 is_public=$4
 
 # Check user parameter
-sudo yunohost user list --json | grep -q "\"username\": \"$user\""
+sudo yunohost user list --json | grep -q "\"username\": \"$admin\""
 if [[ ! $? -eq 0 ]]; then
-    echo "Wrong user"
+    echo "Wrong admin user"
     exit 1
 fi
 
@@ -24,6 +24,7 @@ sudo apt-get install ant -y
 # Check domain/path availability
 sudo yunohost app checkurl $domain$path -a ofbiz
 if [[ ! $? -eq 0 ]]; then
+    echo "application path already exist"
     exit 1
 fi
 
