@@ -35,16 +35,16 @@ uri_path=/catalog/control/main
 sudo mkdir -p $final_path
 sudo mkdir -p $app_path
 sudo cp -a ../sources/* $app_path
-sudo chown $admin /opt/ofbiz
-sudo chmod u+r /opt/ofbiz
-cd /opt/ofbiz
-sudo . ant
+sudo cd /opt/ofbiz
+sudo ant
+sudo chown -R $admin /opt/ofbiz
+sudo chmod -R 700 /opt/ofbiz
 
 # Modify ofbiz deamon script configuration
 sed -i "s@YNH_USER_ADMIN@$admin@g" ../conf/rc.ofbiz.for.debian
 sudo cp ../conf/rc.ofbiz.for.debian /etc/init.d/ofbiz
-cd /etc/init.d/
-sudo chmod +x ofbiz
+sudo chown $admin /etc/init.d/ofbiz
+sudo chmod 700 /etc/init.d/ofbiz
 sudo update-rc.d ofbiz defaults 90
 sudo echo 'alias ofbiz='\''/etc/init.d/ofbiz'\' >> /root/.bashrc
 
