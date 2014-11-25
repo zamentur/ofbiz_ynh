@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1639834/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order
+END
+OrderReturnServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1564117/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderReturnServices.java
+END
+OrderServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1639834/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderServices.java
+END
+OrderEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderEvents.java
+END
+OrderChangeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderChangeHelper.java
+END
+OrderContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderContentWrapper.java
+END
+OrderReadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1626456/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderReadHelper.java
+END
+OrderListState.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderListState.java
+END
+OrderLookupServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/order/OrderLookupServices.java
+END

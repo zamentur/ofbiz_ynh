@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1554381/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/product
+END
+ProductPromoWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1554381/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/product/ProductPromoWorker.java
+END
+ProductStoreCartAwareEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/product/ProductStoreCartAwareEvents.java
+END
+ProductDisplayWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/product/ProductDisplayWorker.java
+END

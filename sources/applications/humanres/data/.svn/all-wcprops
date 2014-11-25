@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/data
+END
+HumanResHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/data/HumanResHelpData.xml
+END
+HumanResPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/data/HumanResPortletData.xml
+END
+HumanResSecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/data/HumanResSecurityGroupDemoData.xml
+END
+HumanResSecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/data/HumanResSecurityPermissionSeedData.xml
+END
+HumanResTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/data/HumanResTypeData.xml
+END
+HumanResDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/data/HumanResDemoData.xml
+END

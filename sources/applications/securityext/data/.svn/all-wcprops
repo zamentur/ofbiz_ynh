@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1533344/ofbiz/branches/release13.07/applications/securityext/data
+END
+SecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1533344/ofbiz/branches/release13.07/applications/securityext/data/SecurityPermissionSeedData.xml
+END
+UserDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1533344/ofbiz/branches/release13.07/applications/securityext/data/UserDemoData.xml
+END

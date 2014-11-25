@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1639921/ofbiz/branches/release13.07/applications/product/config
+END
+promotext_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/promotext_zh_TW.properties
+END
+ProductErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/ProductErrorUiLabels.xml
+END
+promotext.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/promotext.properties
+END
+freemarkerTransforms.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/freemarkerTransforms.properties
+END
+promotext_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/promotext_zh.properties
+END
+ImageProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/ImageProperties.xml
+END
+ProductEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/ProductEntityLabels.xml
+END
+ProductUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1639921/ofbiz/branches/release13.07/applications/product/config/ProductUiLabels.xml
+END
+shipment.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/config/shipment.properties
+END
+catalog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1592978/ofbiz/branches/release13.07/applications/product/config/catalog.properties
+END
+prodsearch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/product/config/prodsearch.properties
+END

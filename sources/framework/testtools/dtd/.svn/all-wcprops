@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/dtd
+END
+test-suite.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/dtd/test-suite.xsd
+END
+testtools-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/dtd/testtools-catalog.xml
+END

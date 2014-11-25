@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/script/org/ofbiz/content/permission
+END
+DataResourcePermissionServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/script/org/ofbiz/content/permission/DataResourcePermissionServices.xml
+END
+ContentPermissionServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/script/org/ofbiz/content/permission/ContentPermissionServices.xml
+END

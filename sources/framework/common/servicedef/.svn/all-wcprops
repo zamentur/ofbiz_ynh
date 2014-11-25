@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1639893/ofbiz/branches/release13.07/framework/common/servicedef
+END
+services_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1547186/ofbiz/branches/release13.07/framework/common/servicedef/services_test.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1619043/ofbiz/branches/release13.07/framework/common/servicedef/services.xml
+END
+services_cdyne.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/servicedef/services_cdyne.xml
+END
+smcas_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/servicedef/smcas_test.xml
+END
+services_email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/servicedef/services_email.xml
+END
+services_security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1639893/ofbiz/branches/release13.07/framework/common/servicedef/services_security.xml
+END
+secas_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/servicedef/secas_test.xml
+END
+groups_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/servicedef/groups_test.xml
+END
+services_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/servicedef/services_olap.xml
+END
+secas_cdyne.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/servicedef/secas_cdyne.xml
+END

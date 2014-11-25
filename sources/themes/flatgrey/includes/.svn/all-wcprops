@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/themes/flatgrey/includes
+END
+appbar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/themes/flatgrey/includes/appbar.ftl
+END
+header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/themes/flatgrey/includes/header.ftl
+END
+footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/themes/flatgrey/includes/footer.ftl
+END

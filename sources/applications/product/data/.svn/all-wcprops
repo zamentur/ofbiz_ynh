@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data
+END
+ProductPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ProductPortletData.xml
+END
+ProductSecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ProductSecurityGroupDemoData.xml
+END
+ProductScheduledServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ProductScheduledServices.xml
+END
+FacilitySecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/FacilitySecurityGroupDemoData.xml
+END
+ProductSecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ProductSecurityPermissionSeedData.xml
+END
+ProductTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ProductTypeData.xml
+END
+ProductDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ProductDemoData.xml
+END
+FacilitySecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/FacilitySecurityPermissionSeedData.xml
+END
+DimensionTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/DimensionTypeData.xml
+END
+ApiSchemaDhl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ApiSchemaDhl.xml
+END
+ProductHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ProductHelpData.xml
+END
+ShipmentTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/data/ShipmentTypeData.xml
+END

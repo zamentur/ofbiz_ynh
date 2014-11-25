@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1554266/ofbiz/branches/release13.07/framework/base/lib/scripting
+END
+janino-2.5.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/janino-2.5.15.jar
+END
+jython-nooro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/jython-nooro.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/antlr-2.7.6.jar
+END
+bsf-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/bsf-2.4.0.jar
+END
+groovy-all-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1554266/ofbiz/branches/release13.07/framework/base/lib/scripting/groovy-all-2.2.1.jar
+END
+asm-util-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/asm-util-3.2.jar
+END
+asm-tree-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/asm-tree-3.2.jar
+END
+jakarta-oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/jakarta-oro-2.0.8.jar
+END
+bsh-2.0b4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/bsh-2.0b4.jar
+END
+asm-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/asm-3.2.jar
+END
+asm-analysis-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/scripting/asm-analysis-3.2.jar
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1639919/ofbiz/branches/release13.07/applications/product/servicedef
+END
+services_shipment_dhl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_shipment_dhl.xml
+END
+services_shipment_ups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_shipment_ups.xml
+END
+services_pricepromo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_pricepromo.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1613126/ofbiz/branches/release13.07/applications/product/servicedef/services.xml
+END
+services_picklist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1626437/ofbiz/branches/release13.07/applications/product/servicedef/services_picklist.xml
+END
+services_subscription.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_subscription.xml
+END
+services_rental.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_rental.xml
+END
+services_shipment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1632775/ofbiz/branches/release13.07/applications/product/servicedef/services_shipment.xml
+END
+services_upgrade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_upgrade.xml
+END
+services_feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_feature.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/secas.xml
+END
+services_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_olap.xml
+END
+services_store.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_store.xml
+END
+services_uom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_uom.xml
+END
+services_shipment_usps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_shipment_usps.xml
+END
+secas_shipment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/secas_shipment.xml
+END
+services_shipment_fedex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_shipment_fedex.xml
+END
+services_facility.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1639919/ofbiz/branches/release13.07/applications/product/servicedef/services_facility.xml
+END
+secas_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/secas_olap.xml
+END
+services_cost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_cost.xml
+END
+services_maint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_maint.xml
+END
+services_shipmentgateway.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/servicedef/services_shipmentgateway.xml
+END
+services_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1632760/ofbiz/branches/release13.07/applications/product/servicedef/services_view.xml
+END

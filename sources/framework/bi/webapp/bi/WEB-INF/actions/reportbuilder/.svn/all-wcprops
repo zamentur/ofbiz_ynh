@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/bi/webapp/bi/WEB-INF/actions/reportbuilder
+END
+GetStarSchemaFields.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/bi/webapp/bi/WEB-INF/actions/reportbuilder/GetStarSchemaFields.groovy
+END
+RunStarSchemaQuery.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/bi/webapp/bi/WEB-INF/actions/reportbuilder/RunStarSchemaQuery.groovy
+END
+GetStarSchemas.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/bi/webapp/bi/WEB-INF/actions/reportbuilder/GetStarSchemas.groovy
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang
+END
+IsEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/IsEmpty.java
+END
+LockedBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/LockedBy.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/Range.java
+END
+Appender.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/Appender.java
+END
+ClassInvariant.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/ClassInvariant.java
+END
+SourceMonitored.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/SourceMonitored.java
+END
+ComparableRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/ComparableRange.java
+END
+ThreadSafe.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/ThreadSafe.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/Factory.java
+END
+ObjectWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/lang/ObjectWrapper.java
+END

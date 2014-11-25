@@ -1,0 +1,156 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/framework
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-25T09:15:10.154572Z
+1641549
+jleroux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+images
+dir
+
+security
+dir
+
+datafile
+dir
+
+base
+dir
+
+resources
+dir
+
+catalina
+dir
+
+entity
+dir
+
+webapp
+dir
+
+component-load.xml
+file
+
+
+
+
+2014-11-25T13:21:05.634029Z
+54217098e473476c21600819b1310f1e
+2013-04-06T18:04:11.622981Z
+1465283
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1845
+
+geronimo
+dir
+
+widget
+dir
+
+common
+dir
+
+bi
+dir
+
+entityext
+dir
+
+start
+dir
+
+minilang
+dir
+
+webtools
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-25T13:21:05.634029Z
+db595595fdfa228ba9047389484fc408
+2013-09-17T06:25:47.420393Z
+1523924
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1486
+
+sql
+dir
+
+testtools
+dir
+
+service
+dir
+
+documents
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config
+END
+MainResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/MainResourceHandler.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/ResourceLoader.java
+END
+GenericConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/GenericConfigException.java
+END
+ResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/ResourceHandler.java
+END
+CoberturaInstrumenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/CoberturaInstrumenter.java
+END
+FileLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/FileLoader.java
+END
+JNDIConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/JNDIConfigUtil.java
+END
+ClasspathLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/ClasspathLoader.java
+END
+UrlLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/config/UrlLoader.java
+END

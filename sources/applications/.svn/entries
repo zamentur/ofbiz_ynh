@@ -1,0 +1,129 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-22T18:06:08.797971Z
+1641097
+nmalin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+securityext
+dir
+
+workeffort
+dir
+
+commonext
+dir
+
+accounting
+dir
+
+content
+dir
+
+order
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-25T13:20:37.222029Z
+35d17d7dbf58369de5881db394edbd3b
+2013-09-17T06:25:47.420393Z
+1523924
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1225
+
+component-load.xml
+file
+
+
+
+
+2014-11-25T13:20:37.222029Z
+62c9cde4ce90e9d2c3e12702728c0765
+2009-09-06T09:39:20.232442Z
+811787
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1665
+
+party
+dir
+
+product
+dir
+
+marketing
+dir
+
+humanres
+dir
+
+manufacturing
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1566108/ofbiz/branches/release13.07/framework/minilang/dtd
+END
+minilang-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/dtd/minilang-catalog.xml
+END
+simple-methods.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/dtd/simple-methods.xsd
+END
+simple-methods-v2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1566108/ofbiz/branches/release13.07/framework/minilang/dtd/simple-methods-v2.xsd
+END

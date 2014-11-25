@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1639864/ofbiz/branches/release13.07/framework/entity/entitydef
+END
+entitygroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/entitydef/entitygroup.xml
+END
+entitymodel_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1611014/ofbiz/branches/release13.07/framework/entity/entitydef/entitymodel_test.xml
+END
+entitymodel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1639864/ofbiz/branches/release13.07/framework/entity/entitydef/entitymodel.xml
+END

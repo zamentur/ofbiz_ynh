@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/1614356/ofbiz/branches/release13.07/tools
+END
+startofbiz.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/startofbiz.bat
+END
+startofbiz.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/startofbiz.sh
+END
+git-rebase-runner.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/git-rebase-runner.sh
+END
+svnUpHotdeploy.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/svnUpHotdeploy.bat
+END
+startofbizBoth.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/startofbizBoth.bat
+END
+applyOfbizPatchesAndHotDeploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/applyOfbizPatchesAndHotDeploy.sh
+END
+revert.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1512662/ofbiz/branches/release13.07/tools/revert.bat
+END
+rc.ofbiz
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/rc.ofbiz
+END
+mergefromtrunk.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1571209/ofbiz/branches/release13.07/tools/mergefromtrunk.bat
+END
+svnUpHotdeploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/svnUpHotdeploy.sh
+END
+ofbiz.aptana.js.format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/ofbiz.aptana.js.format.xml
+END
+startofbizPos.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/startofbizPos.bat
+END
+mergefromtrunk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1516095/ofbiz/branches/release13.07/tools/mergefromtrunk.sh
+END
+functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/functions.sh
+END
+rc.ofbiz.for.debian
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1614356/ofbiz/branches/release13.07/tools/rc.ofbiz.for.debian
+END
+rc.ofbiz.for.ubuntu
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/rc.ofbiz.for.ubuntu
+END
+stopofbiz.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/tools/stopofbiz.sh
+END

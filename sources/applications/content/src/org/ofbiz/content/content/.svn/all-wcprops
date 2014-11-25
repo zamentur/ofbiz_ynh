@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1640718/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content
+END
+ContentUrlFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1631204/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentUrlFilter.java
+END
+ContentSearchSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentSearchSession.java
+END
+ContentWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1640718/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentWorker.java
+END
+ContentSearchEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentSearchEvents.java
+END
+UploadContentAndImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/UploadContentAndImage.java
+END
+ContentServicesComplex.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentServicesComplex.java
+END
+ContentKeywordIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentKeywordIndex.java
+END
+ContentPermissionServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentPermissionServices.java
+END
+ContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentWrapper.java
+END
+ContentMapFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentMapFacade.java
+END
+ContentServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentServices.java
+END
+PermissionRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/PermissionRecorder.java
+END
+ContentEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentEvents.java
+END
+ContentSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/content/ContentSearch.java
+END

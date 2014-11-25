@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1609066/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/invoice
+END
+SampleCommissionServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/invoice/SampleCommissionServices.xml
+END
+InvoiceServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1609066/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/invoice/InvoiceServices.xml
+END
+InvoiceEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/invoice/InvoiceEvents.xml
+END

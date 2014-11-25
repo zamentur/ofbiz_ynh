@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1577270/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form
+END
+ModelFormField.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1576509/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form/ModelFormField.java
+END
+FormFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form/FormFactory.java
+END
+UtilHelpText.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form/UtilHelpText.java
+END
+MacroFormRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1560182/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form/MacroFormRenderer.java
+END
+FormStringRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form/FormStringRenderer.java
+END
+ModelFormAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1557448/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form/ModelFormAction.java
+END
+ModelForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1577270/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/form/ModelForm.java
+END

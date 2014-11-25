@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1551745/ofbiz/branches/release13.07/framework/entity/dtd
+END
+entitymodel.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1551745/ofbiz/branches/release13.07/framework/entity/dtd/entitymodel.xsd
+END
+entity-config.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/dtd/entity-config.xsd
+END
+entity-eca.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/dtd/entity-eca.xsd
+END
+entity-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/dtd/entity-catalog.xml
+END
+fieldtypemodel.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/dtd/fieldtypemodel.xsd
+END
+entitygroup.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/dtd/entitygroup.xsd
+END

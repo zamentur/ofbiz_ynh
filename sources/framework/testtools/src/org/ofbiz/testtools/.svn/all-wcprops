@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools
+END
+EntityXmlAssertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools/EntityXmlAssertTest.java
+END
+ServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools/ServiceTest.java
+END
+JunitSuiteWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools/JunitSuiteWrapper.java
+END
+TestRunContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools/TestRunContainer.java
+END
+ModelTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools/ModelTestSuite.java
+END
+SimpleMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools/SimpleMethodTest.java
+END
+TestListContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/src/org/ofbiz/testtools/TestListContainer.java
+END

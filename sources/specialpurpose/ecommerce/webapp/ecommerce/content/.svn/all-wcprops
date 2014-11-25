@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content
+END
+viewcontent.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/viewcontent.ftl
+END
+tpl_mb_content.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/tpl_mb_content.ftl
+END
+content_topic.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/content_topic.ftl
+END
+recentlyviewed.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/recentlyviewed.ftl
+END
+bloglib.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/bloglib.ftl
+END
+showcontenttree.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/showcontenttree.ftl
+END
+factoids.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/factoids.ftl
+END
+content_categories.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/content_categories.ftl
+END
+defaultcontent.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/defaultcontent.ftl
+END
+searchContent.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/searchContent.ftl
+END
+minipoll.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/content/minipoll.ftl
+END

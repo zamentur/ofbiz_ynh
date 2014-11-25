@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1626437/ofbiz/branches/release13.07/applications/product/webapp/facility/facility
+END
+NotReadyToPick.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/NotReadyToPick.fo.ftl
+END
+EditFacilityLocation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/EditFacilityLocation.ftl
+END
+ViewContactMechs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/ViewContactMechs.ftl
+END
+EditFacility.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/EditFacility.ftl
+END
+PickMoveStock.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/PickMoveStock.ftl
+END
+PrintPickSheets.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/PrintPickSheets.fo.ftl
+END
+Picklist.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/Picklist.fo.ftl
+END
+batchPrintShippingLabels.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/batchPrintShippingLabels.fo.ftl
+END
+batchPrintMarkAsAccepted.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/batchPrintMarkAsAccepted.ftl
+END
+searchInventoryItemsByLabelsForm.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/searchInventoryItemsByLabelsForm.ftl
+END
+ReviewOrdersNotPickedOrPacked.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/ReviewOrdersNotPickedOrPacked.ftl
+END
+PicklistManage.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1626437/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/PicklistManage.ftl
+END
+FacilityScheduleTabBar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/FacilityScheduleTabBar.ftl
+END
+PicklistOptions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1626389/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/PicklistOptions.ftl
+END
+FindFacilityLocation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/FindFacilityLocation.ftl
+END
+EditContactMech.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1560204/ofbiz/branches/release13.07/applications/product/webapp/facility/facility/EditContactMech.ftl
+END

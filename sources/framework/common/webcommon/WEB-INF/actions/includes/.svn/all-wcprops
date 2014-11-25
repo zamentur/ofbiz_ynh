@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/WEB-INF/actions/includes
+END
+GeoLocation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/WEB-INF/actions/includes/GeoLocation.groovy
+END
+GetParentPortalPageId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/WEB-INF/actions/includes/GetParentPortalPageId.groovy
+END
+PrepareDataForFlotGraph.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/WEB-INF/actions/includes/PrepareDataForFlotGraph.groovy
+END
+ListPortalPortlets.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/WEB-INF/actions/includes/ListPortalPortlets.groovy
+END
+GetLocaleList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/WEB-INF/actions/includes/GetLocaleList.groovy
+END
+FindAutocompleteOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/WEB-INF/actions/includes/FindAutocompleteOptions.groovy
+END

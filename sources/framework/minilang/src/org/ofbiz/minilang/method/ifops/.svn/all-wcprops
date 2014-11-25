@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/ifops
+END
+IfNotEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfNotEmpty.java
+END
+CheckPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/ifops/CheckPermission.java
+END
+IfInstanceOf.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/ifops/IfInstanceOf.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/status
+END
+StatusWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/status/StatusWorker.java
+END
+StatusServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/status/StatusServices.java
+END

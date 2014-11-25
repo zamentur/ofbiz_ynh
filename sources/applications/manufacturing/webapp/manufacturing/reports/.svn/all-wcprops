@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports
+END
+PRunsComponentsByFeature.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/PRunsComponentsByFeature.fo.ftl
+END
+PRunsProductsStacks.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/PRunsProductsStacks.fo.ftl
+END
+ShipmentWorkEffortTasks.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/ShipmentWorkEffortTasks.fo.ftl
+END
+ShipmentLabel.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/ShipmentLabel.fo.ftl
+END
+PackageContentsAndOrder.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/PackageContentsAndOrder.fo.ftl
+END
+PRunsProductsAndOrder.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/PRunsProductsAndOrder.fo.ftl
+END
+PRunsInfoAndOrder.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/PRunsInfoAndOrder.fo.ftl
+END
+PRunsProductsByFeature.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/PRunsProductsByFeature.fo.ftl
+END
+ShipmentPlanStockReport.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/reports/ShipmentPlanStockReport.fo.ftl
+END

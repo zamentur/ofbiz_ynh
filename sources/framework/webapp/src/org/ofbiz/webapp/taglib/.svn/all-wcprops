@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib
+END
+IterateNextTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/IterateNextTag.java
+END
+InputValueTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/InputValueTag.java
+END
+PrintTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/PrintTag.java
+END
+ContentUrlTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/ContentUrlTag.java
+END
+IfTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/IfTag.java
+END
+IteratorTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/IteratorTEI.java
+END
+ServiceTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/ServiceTag.java
+END
+ParamTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/ParamTag.java
+END
+UrlTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/UrlTag.java
+END
+IterateNextTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/IterateNextTEI.java
+END
+AbstractParameterTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/AbstractParameterTag.java
+END
+ObjectTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/ObjectTag.java
+END
+I18nBundleTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/I18nBundleTag.java
+END
+UnlessTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/UnlessTag.java
+END
+ObjectTEI.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/ObjectTEI.java
+END
+EntityFieldTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/EntityFieldTag.java
+END
+I18nMessageTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/I18nMessageTag.java
+END
+IteratorHasNextTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/IteratorHasNextTag.java
+END
+I18nMessageArgumentTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/I18nMessageArgumentTag.java
+END
+FormatTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/FormatTag.java
+END
+IteratorTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/taglib/IteratorTag.java
+END

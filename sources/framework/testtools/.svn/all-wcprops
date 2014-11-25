@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1571248/ofbiz/branches/release13.07/framework/testtools
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/build.xml
+END
+ofbiz-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/testtools/ofbiz-component.xml
+END

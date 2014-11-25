@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1564529/ofbiz/branches/release13.07/framework/geronimo
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/geronimo/build.xml
+END
+ofbiz-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/geronimo/ofbiz-component.xml
+END

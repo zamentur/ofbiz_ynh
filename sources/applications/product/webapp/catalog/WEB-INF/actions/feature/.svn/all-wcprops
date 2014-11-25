@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/feature
+END
+QuickAddProductFeatures.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/feature/QuickAddProductFeatures.groovy
+END
+EditFeatureCategoryFeatures.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/feature/EditFeatureCategoryFeatures.groovy
+END
+EditFeatureGroups.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/feature/EditFeatureGroups.groovy
+END

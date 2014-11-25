@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1626467/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order
+END
+anonymousCheckoutLinks.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/anonymousCheckoutLinks.ftl
+END
+orderstatus.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/orderstatus.ftl
+END
+quickAnonCheckoutLinks.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/quickAnonCheckoutLinks.ftl
+END
+splitship.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/splitship.ftl
+END
+genericaddress.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/genericaddress.ftl
+END
+checkoutshippingoptions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/checkoutshippingoptions.ftl
+END
+paymentinformation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/paymentinformation.ftl
+END
+orderheader.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1626467/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/orderheader.ftl
+END
+anonymoustrail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/anonymoustrail.ftl
+END
+shipsettings.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/shipsettings.ftl
+END
+checkoutreview.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/checkoutreview.ftl
+END
+requestreturn.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/requestreturn.ftl
+END
+optionsettings.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/optionsettings.ftl
+END
+paymentoptions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/paymentoptions.ftl
+END
+eftinfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/eftinfo.ftl
+END
+quickAnonPaymentInformation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/quickAnonPaymentInformation.ftl
+END
+orderhistory.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/orderhistory.ftl
+END
+quickAnonOrderHeader.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/quickAnonOrderHeader.ftl
+END
+custsettings.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/custsettings.ftl
+END
+startanoncheckout.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/startanoncheckout.ftl
+END
+quickAnonCheckoutReview.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/quickAnonCheckoutReview.ftl
+END
+ccinfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/ccinfo.ftl
+END
+quickAnonOptionSettings.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/quickAnonOptionSettings.ftl
+END
+checkoutpayment.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/checkoutpayment.ftl
+END
+billsettings.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/billsettings.ftl
+END
+OnePageCheckoutProcess.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/OnePageCheckoutProcess.ftl
+END
+ordercomplete.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/ordercomplete.ftl
+END
+gcinfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/gcinfo.ftl
+END
+quickAnonCustSettings.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/quickAnonCustSettings.ftl
+END
+orderitems.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1543747/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/order/orderitems.ftl
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1554374/ofbiz/branches/release13.07/applications/accounting/testdef
+END
+paymenttests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/testdef/paymenttests.xml
+END
+fixedassettests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/testdef/fixedassettests.xml
+END
+accountingtests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/testdef/accountingtests.xml
+END
+paymentappltests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/testdef/paymentappltests.xml
+END
+invoicetests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/testdef/invoicetests.xml
+END

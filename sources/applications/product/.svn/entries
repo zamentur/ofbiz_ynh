@@ -1,0 +1,132 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/product
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-22T12:39:59.531560Z
+1641055
+ashish
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+lib
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2014-11-25T13:20:33.622029Z
+b27fc72edc8060e1eba5034ba1e3e561
+2012-06-21T07:21:49.141291Z
+1352431
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6307
+
+data
+dir
+
+entitydef
+dir
+
+templates
+dir
+
+testdef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-25T13:20:33.622029Z
+5d95782e27b968b1efe2051acdd92cd3
+2010-12-24T15:22:49.666847Z
+1052521
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3287
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+

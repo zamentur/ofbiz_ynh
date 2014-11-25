@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops
+END
+CallService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallService.java
+END
+FlexibleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/FlexibleMessage.java
+END
+Return.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/Return.java
+END
+CallScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallScript.java
+END
+CallClassMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallClassMethod.java
+END
+CallServiceAsynch.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallServiceAsynch.java
+END
+CallObjectMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallObjectMethod.java
+END
+CallSimpleMapProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallSimpleMapProcessor.java
+END
+SetServiceFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/SetServiceFields.java
+END
+CallSimpleMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallSimpleMethod.java
+END
+CallBsh.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/callops/CallBsh.java
+END

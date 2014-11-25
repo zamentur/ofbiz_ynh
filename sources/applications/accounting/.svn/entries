@@ -1,0 +1,129 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/accounting
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-15T09:23:04.110792Z
+1639851
+ashish
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+testdef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-25T13:20:23.802029Z
+968cd860ea3702aa0a3eef5ad21cddfc
+2011-01-24T04:47:07.217034Z
+1062648
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3678
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+
+lib
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2014-11-25T13:20:23.802029Z
+794c14207eedf216e1462c052c80ecc7
+2013-12-31T06:54:41.644601Z
+1554374
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8174
+
+data
+dir
+
+entitydef
+dir
+

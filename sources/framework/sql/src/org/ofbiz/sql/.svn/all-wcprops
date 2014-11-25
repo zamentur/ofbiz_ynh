@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql
+END
+SQLStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLStatement.java
+END
+NumberValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/NumberValue.java
+END
+InsertSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/InsertSource.java
+END
+MathValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/MathValue.java
+END
+KeyMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/KeyMap.java
+END
+Joiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Joiner.java
+END
+BooleanCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/BooleanCondition.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Condition.java
+END
+ConstantValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ConstantValue.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Table.java
+END
+CountAllFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/CountAllFunction.java
+END
+TableName.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/TableName.java
+END
+AggregateFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/AggregateFunction.java
+END
+InsertRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/InsertRow.java
+END
+SetField.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SetField.java
+END
+Unioned.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Unioned.java
+END
+ConditionPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ConditionPlan.java
+END
+FieldDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/FieldDef.java
+END
+ConditionPlanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ConditionPlanner.java
+END
+SQLPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLPlan.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Value.java
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Relation.java
+END
+Parser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Parser.jj
+END
+InsertPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/InsertPlan.java
+END
+FieldValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/FieldValue.java
+END
+ParameterizedConditionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ParameterizedConditionException.java
+END
+StaticValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/StaticValue.java
+END
+SQLInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLInsert.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Main.java
+END
+InsertValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/InsertValues.java
+END
+ViewPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ViewPlan.java
+END
+OrderByItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/OrderByItem.java
+END
+SQLIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLIndex.java
+END
+SelectPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SelectPlan.java
+END
+SQLView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLView.java
+END
+SelectGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SelectGroup.java
+END
+UpdatePlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/UpdatePlan.java
+END
+SQLSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLSelect.java
+END
+Planner.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Planner.java
+END
+BetweenCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/BetweenCondition.java
+END
+Atom.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Atom.java
+END
+SQLUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLUpdate.java
+END
+StringValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/StringValue.java
+END
+Joined.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/Joined.java
+END
+FieldAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/FieldAll.java
+END
+ParameterValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ParameterValue.java
+END
+DeletePlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/DeletePlan.java
+END
+FunctionCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/FunctionCall.java
+END
+ListCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ListCondition.java
+END
+ConditionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/ConditionList.java
+END
+SQLDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/sql/src/org/ofbiz/sql/SQLDelete.java
+END

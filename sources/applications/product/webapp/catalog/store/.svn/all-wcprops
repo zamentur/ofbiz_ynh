@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/store
+END
+EditProductStoreSurveys.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/store/EditProductStoreSurveys.ftl
+END
+prepareCreateShipMeth.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/store/prepareCreateShipMeth.groovy
+END
+EditProductStoreShipSetup.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/store/EditProductStoreShipSetup.ftl
+END
+EditProductStoreWebSites.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/store/EditProductStoreWebSites.ftl
+END
+ProductStoreGroupTree.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/store/ProductStoreGroupTree.ftl
+END

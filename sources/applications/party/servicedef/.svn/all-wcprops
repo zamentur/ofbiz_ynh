@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1626415/ofbiz/branches/release13.07/applications/party/servicedef
+END
+mcas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/servicedef/mcas.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1626415/ofbiz/branches/release13.07/applications/party/servicedef/services.xml
+END
+services_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/servicedef/services_view.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/servicedef/secas.xml
+END

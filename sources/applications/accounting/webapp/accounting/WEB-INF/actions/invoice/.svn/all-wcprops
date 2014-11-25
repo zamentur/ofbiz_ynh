@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1626410/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice
+END
+CreateApplicationList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice/CreateApplicationList.groovy
+END
+OrderListInvoiceItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice/OrderListInvoiceItem.groovy
+END
+InvoiceReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice/InvoiceReport.groovy
+END
+ListNotAppliedPayments.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice/ListNotAppliedPayments.groovy
+END
+PrintInvoices.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice/PrintInvoices.groovy
+END
+GetInvoiceItemTypes.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1626410/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice/GetInvoiceItemTypes.groovy
+END
+EditInvoice.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/WEB-INF/actions/invoice/EditInvoice.groovy
+END

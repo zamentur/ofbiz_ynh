@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/META-INF/services
+END
+org.ofbiz.base.util.ScriptHelperFactory
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/META-INF/services/org.ofbiz.base.util.ScriptHelperFactory
+END
+org.ofbiz.common.authentication.api.Authenticator
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/META-INF/services/org.ofbiz.common.authentication.api.Authenticator
+END

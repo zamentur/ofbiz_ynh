@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1633189/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test
+END
+AutoAcctgTransTestsPurchase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test/AutoAcctgTransTestsPurchase.xml
+END
+FixedAssetTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test/FixedAssetTests.xml
+END
+PaymentApplicationTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test/PaymentApplicationTests.xml
+END
+AutoInvoiceTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test/AutoInvoiceTests.xml
+END
+AutoPaymentTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test/AutoPaymentTests.xml
+END
+AutoAcctgTransTestsSales.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test/AutoAcctgTransTestsSales.xml
+END
+InvoicePerShipmentTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1633189/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting/test/InvoicePerShipmentTests.xml
+END

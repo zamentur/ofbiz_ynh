@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports
+END
+GlAccountTrialBalanceReport.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/GlAccountTrialBalanceReport.fo.ftl
+END
+AcctgTransSearchResult.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/AcctgTransSearchResult.fo.ftl
+END
+DepositSlip.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/DepositSlip.fo.ftl
+END
+ChartOfAccount.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/ChartOfAccount.fo.ftl
+END
+CostCentersReport.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/CostCentersReport.ftl
+END
+AcctgTransEntriesSearchResult.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/AcctgTransEntriesSearchResult.fo.ftl
+END
+CostCentersReport.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/CostCentersReport.fo.ftl
+END
+SalesInvoiceByProductCategorySummary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/SalesInvoiceByProductCategorySummary.ftl
+END
+GlAccountTrialBalanceReport.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/reports/GlAccountTrialBalanceReport.ftl
+END

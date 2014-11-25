@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql
+END
+EntityViewPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/EntityViewPlan.java
+END
+EntityConditionPlanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/EntityConditionPlanner.java
+END
+EntitySelectPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/EntitySelectPlan.java
+END
+EntityDeletePlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/EntityDeletePlan.java
+END
+EntityUpdatePlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/EntityUpdatePlan.java
+END
+EntityInsertPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/EntityInsertPlan.java
+END
+EntityPlanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/EntityPlanner.java
+END
+SQLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/sql/SQLUtil.java
+END

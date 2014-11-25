@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/scripting
+END
+ScriptHelperFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/scripting/ScriptHelperFactoryImpl.java
+END
+ContextHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/scripting/ContextHelper.java
+END
+ScriptHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/scripting/ScriptHelperImpl.java
+END

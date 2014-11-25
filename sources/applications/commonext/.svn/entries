@@ -1,0 +1,86 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/commonext
+http://svn.apache.org/repos/asf
+
+
+
+2014-10-02T11:21:17.229758Z
+1628941
+jleroux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+config
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2014-11-25T13:20:20.958029Z
+5e74262a62edc3574b211abcb68948e9
+2014-07-21T07:40:51.394647Z
+1612204
+jleroux
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2717
+
+data
+dir
+
+entitydef
+dir
+
+webapp
+dir
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+

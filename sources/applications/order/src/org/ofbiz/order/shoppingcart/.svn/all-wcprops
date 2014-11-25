@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1639917/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart
+END
+CartEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/CartEventListener.java
+END
+ShoppingCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1558159/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/ShoppingCart.java
+END
+ShoppingCartHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1639917/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/ShoppingCartHelper.java
+END
+CheckOutHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/CheckOutHelper.java
+END
+ShoppingCartServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1639890/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/ShoppingCartServices.java
+END
+ShoppingCartEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1639917/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/ShoppingCartEvents.java
+END
+CheckOutEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1544446/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/CheckOutEvents.java
+END
+ItemNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/ItemNotFoundException.java
+END
+CartItemModifyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/CartItemModifyException.java
+END
+WebShoppingCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/WebShoppingCart.java
+END
+ShoppingCartItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1639890/ofbiz/branches/release13.07/applications/order/src/org/ofbiz/order/shoppingcart/ShoppingCartItem.java
+END

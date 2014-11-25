@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/dtd
+END
+regions.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/dtd/regions.xsd
+END
+site-conf.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/dtd/site-conf.xsd
+END
+webapp-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/dtd/webapp-catalog.xml
+END

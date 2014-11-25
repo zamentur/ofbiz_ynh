@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data
+END
+SalesOrderDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/SalesOrderDemoData.xml
+END
+OrderSecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderSecurityPermissionSeedData.xml
+END
+OrderTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderTypeData.xml
+END
+OrderDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderDemoData.xml
+END
+OrderHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderHelpData.xml
+END
+OrderDemoUser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderDemoUser.xml
+END
+OrderPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderPortletData.xml
+END
+OrderSecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderSecurityGroupDemoData.xml
+END
+OrderScheduledServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/data/OrderScheduledServices.xml
+END

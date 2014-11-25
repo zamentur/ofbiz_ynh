@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog
+END
+MiniProductSummary.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog/MiniProductSummary.groovy
+END
+ajaxbreadcrumbs.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog/ajaxbreadcrumbs.groovy
+END
+PopularTags.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog/PopularTags.groovy
+END
+LayeredNavigation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog/LayeredNavigation.groovy
+END
+ProductCategories.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog/ProductCategories.groovy
+END
+MiniReorderProds.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog/MiniReorderProds.groovy
+END
+BestSellingCategory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/actions/catalog/BestSellingCategory.groovy
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1598546/ofbiz/branches/release13.07/framework/base/cert/demoCA/newcerts
+END
+01.pem
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/newcerts/01.pem
+END
+02.pem
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/newcerts/02.pem
+END
+03.pem
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1598546/ofbiz/branches/release13.07/framework/base/cert/demoCA/newcerts/03.pem
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region
+END
+RegionStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region/RegionStack.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region/Content.java
+END
+RenderTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region/RenderTag.java
+END
+RegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region/RegionManager.java
+END
+RegionTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region/RegionTag.java
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region/Region.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/region/Section.java
+END

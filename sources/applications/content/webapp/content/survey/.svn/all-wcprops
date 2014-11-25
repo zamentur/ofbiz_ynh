@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/survey
+END
+ViewSurveyResponses.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/survey/ViewSurveyResponses.ftl
+END
+EditSurveyQuestions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/survey/EditSurveyQuestions.ftl
+END
+EditSurveyResponse.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/survey/EditSurveyResponse.ftl
+END

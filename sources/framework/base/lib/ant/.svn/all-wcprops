@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/ant
+END
+ant-contrib-1.0b3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/ant/ant-contrib-1.0b3.jar
+END
+ant-nodeps-1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/ant/ant-nodeps-1.8.1.jar
+END
+ant-1.9.0-ant-apache-bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/ant/ant-1.9.0-ant-apache-bsf.jar
+END

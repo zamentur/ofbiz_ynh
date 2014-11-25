@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/datasource
+END
+DataSourceServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/datasource/DataSourceServices.xml
+END
+DataSourceTypeServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/datasource/DataSourceTypeServices.xml
+END

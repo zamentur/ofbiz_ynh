@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/content/webapp/content/cms
+END
+addSubSite.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/cms/addSubSite.ftl
+END
+CMSSites.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/cms/CMSSites.ftl
+END
+AdminSearch.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/content/webapp/content/cms/AdminSearch.ftl
+END
+CMSContentEdit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/cms/CMSContentEdit.ftl
+END

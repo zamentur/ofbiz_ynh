@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/documents
+END
+DataFiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/documents/DataFiles.xml
+END
+Framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/documents/Framework.xml
+END
+SingleSignOn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/documents/SingleSignOn.xml
+END
+UnitTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/documents/UnitTest.xml
+END

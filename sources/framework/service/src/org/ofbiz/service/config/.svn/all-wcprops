@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1625157/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/config
+END
+ServiceConfigListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/config/ServiceConfigListener.java
+END
+ServiceConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/config/ServiceConfigUtil.java
+END
+ServiceConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/config/ServiceConfigException.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1632775/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/packing
+END
+PackingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/packing/PackingEvent.java
+END
+PackingServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1632775/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/packing/PackingServices.java
+END
+PackingSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1632775/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/packing/PackingSession.java
+END
+PackingSessionLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/packing/PackingSessionLine.java
+END

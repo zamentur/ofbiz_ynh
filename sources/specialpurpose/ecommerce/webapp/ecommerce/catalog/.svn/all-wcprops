@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1628489/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog
+END
+minireorderprods.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/minireorderprods.ftl
+END
+configproductdetail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/configproductdetail.ftl
+END
+tellafriend.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/tellafriend.ftl
+END
+minilastviewedcategories.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/minilastviewedcategories.ftl
+END
+advancedsearch.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/advancedsearch.ftl
+END
+lastviewedproducts.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/lastviewedproducts.ftl
+END
+ProductCategoryLink.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/ProductCategoryLink.ftl
+END
+ajaxbreadcrumbs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/ajaxbreadcrumbs.ftl
+END
+miniassocprods.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/miniassocprods.ftl
+END
+minilastproductsearches.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/minilastproductsearches.ftl
+END
+populartags.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/populartags.ftl
+END
+productreview.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/productreview.ftl
+END
+productdetail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1552501/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/productdetail.ftl
+END
+detailImage.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/detailImage.ftl
+END
+LayeredCategoryDetail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/LayeredCategoryDetail.ftl
+END
+minilastviewedproducts.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/minilastviewedproducts.ftl
+END
+ShowBestSellingCategory.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/ShowBestSellingCategory.ftl
+END
+choosecatalog.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/choosecatalog.ftl
+END
+miniproductsummary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/miniproductsummary.ftl
+END
+LayeredNavBar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/LayeredNavBar.ftl
+END
+sidedeepcategory.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/sidedeepcategory.ftl
+END
+ProductCategories.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1628489/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/catalog/ProductCategories.ftl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/widget/ar/forms
+END
+InvoiceForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/widget/ar/forms/InvoiceForms.xml
+END
+ArPaymentForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/widget/ar/forms/ArPaymentForms.xml
+END
+LookupForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/widget/ar/forms/LookupForms.xml
+END

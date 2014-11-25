@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1639923/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product
+END
+ProductSearchEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductSearchEvents.java
+END
+KeywordIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/KeywordIndex.java
+END
+ProductContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductContentWrapper.java
+END
+ProductUtilServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1618355/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductUtilServices.java
+END
+ProductServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1639923/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductServices.java
+END
+ProductEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductEvents.java
+END
+ProductSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductSearch.java
+END
+ProductPromoContentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductPromoContentWrapper.java
+END
+VariantEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/VariantEvents.java
+END
+ProductSearchSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductSearchSession.java
+END
+ProductWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1632760/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/product/ProductWorker.java
+END

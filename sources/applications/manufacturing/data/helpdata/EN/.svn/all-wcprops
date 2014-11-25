@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN
+END
+Help_MFG_EditRoutingTaskCost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditRoutingTaskCost.xml
+END
+Help_MFG_EditCalendarExceptionWeek.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditCalendarExceptionWeek.xml
+END
+Help_MFG_FindRoutingTask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_FindRoutingTask.xml
+END
+Help_MFG_FindProductionRun.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_FindProductionRun.xml
+END
+Help_MFG_FindBom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_FindBom.xml
+END
+Help_MFG_ProductionRunTasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ProductionRunTasks.xml
+END
+Help_MFG_ProductionRunComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ProductionRunComponents.xml
+END
+Help_MFG_EditCostCalcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditCostCalcs.xml
+END
+Help_MFG_FindRouting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_FindRouting.xml
+END
+Help_MFG_EditRoutingTaskFixedAsset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditRoutingTaskFixedAsset.xml
+END
+Help_MFG_EditRoutingTaskAssoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditRoutingTaskAssoc.xml
+END
+Help_MFG_FindCalendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_FindCalendar.xml
+END
+Help_MFG_FindInventoryEventPlan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_FindInventoryEventPlan.xml
+END
+Help_MFG_EditRoutingProductLink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditRoutingProductLink.xml
+END
+Help_MFG_ShowProductionRun.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ShowProductionRun.xml
+END
+Help_MFG_ProductionRunFixedAssets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ProductionRunFixedAssets.xml
+END
+Help_MFG_EditCalendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditCalendar.xml
+END
+Help_MFG_EditRoutingTask.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditRoutingTask.xml
+END
+Help_MFG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG.xml
+END
+Help_MFG_EditRoutingTaskProduct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditRoutingTaskProduct.xml
+END
+Help_MFG_ListCalendarWeek.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ListCalendarWeek.xml
+END
+Help_MFG_EditProductionRun.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditProductionRun.xml
+END
+Help_MFG_ManufacturingReports.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ManufacturingReports.xml
+END
+Help_MFG_BomSimulation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_BomSimulation.xml
+END
+Help_MFG_RunMRP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_RunMRP.xml
+END
+Help_MFG_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_main.xml
+END
+Help_MFG_EditProductBom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditProductBom.xml
+END
+Help_MFG_WorkWithShipmentPlans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_WorkWithShipmentPlans.xml
+END
+Help_MFG_EditProductManufacturingRules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditProductManufacturingRules.xml
+END
+Help_MFG_ProductionRunCosts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ProductionRunCosts.xml
+END
+Help_MFG_ProductionRunAssocs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ProductionRunAssocs.xml
+END
+Help_MFG_ListRoutingTaskProducts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ListRoutingTaskProducts.xml
+END
+Help_MFG_EditCalendarWeek.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditCalendarWeek.xml
+END
+Help_MFG_EditCalendarExceptionDay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditCalendarExceptionDay.xml
+END
+Help_MFG_EditRouting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_EditRouting.xml
+END
+Help_MFG_CreateProductionRun.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_CreateProductionRun.xml
+END
+Help_MFG_ProductionRunContent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/data/helpdata/EN/Help_MFG_ProductionRunContent.xml
+END

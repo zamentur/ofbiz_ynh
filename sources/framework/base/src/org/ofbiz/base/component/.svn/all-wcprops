@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/component
+END
+ComponentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/component/ComponentException.java
+END
+ComponentConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/component/ComponentConfig.java
+END
+ComponentResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/component/ComponentResourceHandler.java
+END
+AlreadyLoadedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/component/AlreadyLoadedException.java
+END
+ComponentLoaderConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/component/ComponentLoaderConfig.java
+END

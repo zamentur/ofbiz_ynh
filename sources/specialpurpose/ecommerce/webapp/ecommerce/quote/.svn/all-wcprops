@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/quote
+END
+QuoteList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/quote/QuoteList.ftl
+END
+CreateOrderQuote.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/specialpurpose/ecommerce/webapp/ecommerce/quote/CreateOrderQuote.ftl
+END

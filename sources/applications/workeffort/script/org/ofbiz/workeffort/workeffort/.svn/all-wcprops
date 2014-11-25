@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/script/org/ofbiz/workeffort/workeffort
+END
+WorkEffortSimpleServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/script/org/ofbiz/workeffort/workeffort/WorkEffortSimpleServices.xml
+END
+WorkflowSimpleEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/script/org/ofbiz/workeffort/workeffort/WorkflowSimpleEvents.xml
+END
+UpgradeServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/script/org/ofbiz/workeffort/workeffort/UpgradeServices.xml
+END
+WorkflowMapProcessors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/script/org/ofbiz/workeffort/workeffort/WorkflowMapProcessors.xml
+END

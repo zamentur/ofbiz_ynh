@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/routing
+END
+EditCalendarExceptionWeek.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/routing/EditCalendarExceptionWeek.groovy
+END
+EditCalendarExceptionDay.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/routing/EditCalendarExceptionDay.groovy
+END
+EditCalendar.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/routing/EditCalendar.groovy
+END

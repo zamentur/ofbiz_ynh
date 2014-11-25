@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional
+END
+Conditional.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/Conditional.java
+END
+EmptyCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/EmptyCondition.java
+END
+Compare.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/Compare.java
+END
+CombinedCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/CombinedCondition.java
+END
+ElseIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/ElseIf.java
+END
+MasterIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/MasterIf.java
+END
+ConditionalFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/ConditionalFactory.java
+END
+HasPermissionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/HasPermissionCondition.java
+END
+CompareCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/CompareCondition.java
+END
+CompareFieldCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/CompareFieldCondition.java
+END
+RegexpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/RegexpCondition.java
+END
+ValidateMethodCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/conditional/ValidateMethodCondition.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/routing
+END
+EditRoutingTaskAssoc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/routing/EditRoutingTaskAssoc.ftl
+END
+EditCalendarExceptionWeek.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/routing/EditCalendarExceptionWeek.ftl
+END
+EditCalendarExceptionDay.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/routing/EditCalendarExceptionDay.ftl
+END
+EditCalendar.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/routing/EditCalendar.ftl
+END

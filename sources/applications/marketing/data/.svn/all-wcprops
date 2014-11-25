@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/data
+END
+MarketingSecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/data/MarketingSecurityGroupDemoData.xml
+END
+sfaDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/data/sfaDemoData.xml
+END
+MarketingSecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/data/MarketingSecurityPermissionSeedData.xml
+END
+MarketingTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/data/MarketingTypeData.xml
+END
+SfaPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/data/SfaPortletData.xml
+END
+MarketingHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/data/MarketingHelpData.xml
+END

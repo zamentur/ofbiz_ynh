@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/servicedef
+END
+services_agreement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_agreement.xml
+END
+secas_invoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/secas_invoice.xml
+END
+groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/groups.xml
+END
+services_pccharge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_pccharge.xml
+END
+secas_ledger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/secas_ledger.xml
+END
+services_verisign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_verisign.xml
+END
+services_upgrade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_upgrade.xml
+END
+secas_payment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/secas_payment.xml
+END
+services_admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_admin.xml
+END
+services_authorizedotnet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_authorizedotnet.xml
+END
+services_finaccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_finaccount.xml
+END
+services_rate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_rate.xml
+END
+services_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_olap.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/secas.xml
+END
+services_tax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_tax.xml
+END
+services_orbital.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_orbital.xml
+END
+services_invoice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_invoice.xml
+END
+services_rita.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_rita.xml
+END
+services_fixedasset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_fixedasset.xml
+END
+services_clearcommerce.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_clearcommerce.xml
+END
+services_perm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_perm.xml
+END
+secas_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/secas_olap.xml
+END
+services_cost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_cost.xml
+END
+services_payment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_payment.xml
+END
+services_paymentmethod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_paymentmethod.xml
+END
+services_billing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_billing.xml
+END
+services_cybersource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_cybersource.xml
+END
+services_paypal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_paypal.xml
+END
+services_sagepay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_sagepay.xml
+END
+services_valuelink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_valuelink.xml
+END
+services_paymentgateway.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_paymentgateway.xml
+END
+services_securepay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/servicedef/services_securepay.xml
+END
+services_ledger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/servicedef/services_ledger.xml
+END

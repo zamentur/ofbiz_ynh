@@ -1,0 +1,104 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/accounting/script/org/ofbiz/accounting
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-15T09:23:04.110792Z
+1639851
+ashish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+admin
+dir
+
+finaccount
+dir
+
+UpgradeServices.xml
+file
+
+
+
+
+2014-11-25T13:20:23.082029Z
+55a548788099ddb7d33eebd2459dccc6
+2012-04-22T09:18:24.129239Z
+1328827
+adrianc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4260
+
+rate
+dir
+
+olap
+dir
+
+tax
+dir
+
+invoice
+dir
+
+fixedasset
+dir
+
+ledger
+dir
+
+agreement
+dir
+
+cost
+dir
+
+permissions
+dir
+
+payment
+dir
+
+test
+dir
+
+period
+dir
+

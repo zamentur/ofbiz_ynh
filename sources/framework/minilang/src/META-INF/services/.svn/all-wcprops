@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/META-INF/services
+END
+org.ofbiz.minilang.method.MethodOperation$Factory
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/META-INF/services/org.ofbiz.minilang.method.MethodOperation$Factory
+END
+org.ofbiz.minilang.method.conditional.ConditionalFactory
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/META-INF/services/org.ofbiz.minilang.method.conditional.ConditionalFactory
+END

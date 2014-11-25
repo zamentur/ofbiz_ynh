@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections
+END
+LRUMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/LRUMap.java
+END
+MapStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/MapStack.java
+END
+LocalizedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/LocalizedMap.java
+END
+MapComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/MapComparator.java
+END
+LifoSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/LifoSet.java
+END
+GenericMapEntrySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/GenericMapEntrySet.java
+END
+GenericMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/GenericMap.java
+END
+FlexibleMapAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/FlexibleMapAccessor.java
+END
+ResourceBundleMapWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/ResourceBundleMapWrapper.java
+END
+MapContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/MapContext.java
+END
+FlexibleServletAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/FlexibleServletAccessor.java
+END
+GenericMapCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/GenericMapCollection.java
+END
+GenericMapSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/GenericMapSet.java
+END
+IteratorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/IteratorWrapper.java
+END
+GenericMapValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/GenericMapValues.java
+END
+GenericMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/GenericMapEntry.java
+END
+ReadOnlyMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/ReadOnlyMapEntry.java
+END
+GenericMapKeySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/collections/GenericMapKeySet.java
+END

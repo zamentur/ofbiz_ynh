@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/request
+END
+CustRequestServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/request/CustRequestServices.xml
+END
+CustRequestEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/request/CustRequestEvents.xml
+END

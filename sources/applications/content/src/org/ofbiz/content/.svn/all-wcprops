@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1640718/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content
+END
+ConvertTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/ConvertTree.java
+END
+ContentManagementWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/ContentManagementWorker.java
+END
+ContentManagementServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1639868/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/ContentManagementServices.java
+END
+ContentManagementEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/src/org/ofbiz/content/ContentManagementEvents.java
+END

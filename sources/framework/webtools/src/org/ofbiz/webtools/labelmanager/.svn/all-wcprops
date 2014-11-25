@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/labelmanager
+END
+LabelReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/labelmanager/LabelReferences.java
+END
+LabelManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/labelmanager/LabelManagerFactory.java
+END
+SaveLabelsToXmlFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/labelmanager/SaveLabelsToXmlFile.java
+END
+LabelInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/labelmanager/LabelInfo.java
+END
+LabelValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/labelmanager/LabelValue.java
+END
+LabelFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/labelmanager/LabelFile.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1639838/ofbiz/branches/release13.07/framework/common/entitydef
+END
+entitygroup_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/entitydef/entitygroup_olap.xml
+END
+entitymodel_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/entitydef/entitymodel_olap.xml
+END
+entitymodel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1639838/ofbiz/branches/release13.07/framework/common/entitydef/entitymodel.xml
+END

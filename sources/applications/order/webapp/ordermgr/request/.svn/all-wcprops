@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request
+END
+CompletedCustRequestNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/CompletedCustRequestNotification.ftl
+END
+QuoteLinks.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/QuoteLinks.ftl
+END
+ViewRequestItemInfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/ViewRequestItemInfo.ftl
+END
+requestitemnotes.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/requestitemnotes.ftl
+END
+requestContactMech.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/requestContactMech.ftl
+END
+CopyRequestItem.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/CopyRequestItem.ftl
+END
+CreateCustRequestNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/CreateCustRequestNotification.ftl
+END
+AddedNoteCustRequestNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/AddedNoteCustRequestNotification.ftl
+END
+requestDate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/request/requestDate.ftl
+END

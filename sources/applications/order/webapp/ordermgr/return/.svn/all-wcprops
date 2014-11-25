@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return
+END
+returnHeader.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnHeader.ftl
+END
+returnItemInc.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnItemInc.ftl
+END
+returnReportConditions.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnReportConditions.fo.ftl
+END
+returnReportContactMechs.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnReportContactMechs.fo.ftl
+END
+returnList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnList.ftl
+END
+quickReturn.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/quickReturn.ftl
+END
+returnReportBody.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnReportBody.fo.ftl
+END
+returnLinks.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnLinks.ftl
+END
+returnItems.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1552154/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnItems.ftl
+END
+returnReportHeaderInfo.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/return/returnReportHeaderInfo.fo.ftl
+END

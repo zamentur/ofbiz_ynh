@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1632802/ofbiz/branches/release13.07/applications/order/widget/ordermgr
+END
+OrderShopListForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderShopListForms.xml
+END
+CommonScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/CommonScreens.xml
+END
+OrderEntryCatalogScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderEntryCatalogScreens.xml
+END
+QuoteScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1533701/ofbiz/branches/release13.07/applications/order/widget/ordermgr/QuoteScreens.xml
+END
+OrderEntryScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1533701/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderEntryScreens.xml
+END
+OrderTaskScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderTaskScreens.xml
+END
+ReportForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/ReportForms.xml
+END
+FieldLookupForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/FieldLookupForms.xml
+END
+ReturnForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/ReturnForms.xml
+END
+OrderViewScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1612204/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderViewScreens.xml
+END
+LookupScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1533701/ofbiz/branches/release13.07/applications/order/widget/ordermgr/LookupScreens.xml
+END
+ReportScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1533413/ofbiz/branches/release13.07/applications/order/widget/ordermgr/ReportScreens.xml
+END
+CustRequestForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1632802/ofbiz/branches/release13.07/applications/order/widget/ordermgr/CustRequestForms.xml
+END
+OrderDeliveryScheduleForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderDeliveryScheduleForms.xml
+END
+RequirementForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1576840/ofbiz/branches/release13.07/applications/order/widget/ordermgr/RequirementForms.xml
+END
+OrderHeaderScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderHeaderScreens.xml
+END
+CustRequestScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1632802/ofbiz/branches/release13.07/applications/order/widget/ordermgr/CustRequestScreens.xml
+END
+OrderPrintScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderPrintScreens.xml
+END
+OrderEntryOrderScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderEntryOrderScreens.xml
+END
+QuoteWorkEffortForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/QuoteWorkEffortForms.xml
+END
+OrderSetupScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderSetupScreens.xml
+END
+OrderForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderForms.xml
+END
+RequirementScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1533701/ofbiz/branches/release13.07/applications/order/widget/ordermgr/RequirementScreens.xml
+END
+OrderMenus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderMenus.xml
+END
+QuoteWorkEffortScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/QuoteWorkEffortScreens.xml
+END
+OrderEntryCommonScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderEntryCommonScreens.xml
+END
+OrderReportScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderReportScreens.xml
+END
+OrderEntryCartScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1533701/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderEntryCartScreens.xml
+END
+OrderReturnScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1612204/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderReturnScreens.xml
+END
+QuoteForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/QuoteForms.xml
+END
+PartySettingsForm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/PartySettingsForm.xml
+END
+OrderEntryForms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/widget/ordermgr/OrderEntryForms.xml
+END

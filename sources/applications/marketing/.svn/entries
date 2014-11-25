@@ -1,0 +1,126 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/marketing
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-15T12:16:01.092047Z
+1639864
+jleroux
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+script
+dir
+
+config
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2014-11-25T13:20:34.342029Z
+8336a90e911ed6e771422a5d40e26d6d
+2013-04-03T09:01:09.735672Z
+1463886
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2675
+
+data
+dir
+
+entitydef
+dir
+
+testdef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-25T13:20:34.338029Z
+86c008121895a28321f9a44c153311ca
+2009-12-26T22:28:48.116557Z
+894031
+doogie
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2420
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+

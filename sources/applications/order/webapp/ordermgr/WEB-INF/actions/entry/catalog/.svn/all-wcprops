@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1639921/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog
+END
+QuickAdd.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/QuickAdd.groovy
+END
+KeywordSearchOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/KeywordSearchOptions.groovy
+END
+ProductSummary.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1639921/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/ProductSummary.groovy
+END
+CategoryDetail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1632760/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/CategoryDetail.groovy
+END
+InlineProductDetail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/InlineProductDetail.groovy
+END
+ProductDetail.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1628097/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/ProductDetail.groovy
+END
+AdvancedSearchOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/AdvancedSearchOptions.groovy
+END
+PrepareConfigForm.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/PrepareConfigForm.groovy
+END
+KeywordSearch.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1639885/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/KeywordSearch.groovy
+END
+CompareProducts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/CompareProducts.groovy
+END
+ChooseCatalog.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/ChooseCatalog.groovy
+END
+Category.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/Category.groovy
+END
+SideDeepCategory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/SideDeepCategory.groovy
+END
+ProductUomDropDownOnly.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/ProductUomDropDownOnly.groovy
+END
+Product.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/catalog/Product.groovy
+END

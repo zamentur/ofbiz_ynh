@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/webapp/humanres/humanres/emplposition
+END
+editperson.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/webapp/humanres/humanres/emplposition/editperson.ftl
+END
+removeemplposition.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/webapp/humanres/humanres/emplposition/removeemplposition.ftl
+END
+editemplposition.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/webapp/humanres/humanres/emplposition/editemplposition.ftl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/requirement
+END
+ApprovedProductRequirementsByVendor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/requirement/ApprovedProductRequirementsByVendor.groovy
+END
+SelectCreatedProposed.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/requirement/SelectCreatedProposed.groovy
+END
+ApprovedProductRequirements.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/requirement/ApprovedProductRequirements.groovy
+END

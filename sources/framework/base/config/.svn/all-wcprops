@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1633570/ofbiz/branches/release13.07/framework/base/config
+END
+ofbiz-containers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/ofbiz-containers.xml
+END
+certificate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/certificate.properties
+END
+component-load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/component-load.xml
+END
+DateTimeLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/DateTimeLabels.xml
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/jndi.properties
+END
+passwords.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/passwords.properties
+END
+ofbizssl.jks
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1598546/ofbiz/branches/release13.07/framework/base/config/ofbizssl.jks
+END
+debug.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1619043/ofbiz/branches/release13.07/framework/base/config/debug.properties
+END
+antisamy-esapi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/antisamy-esapi.xml
+END
+ESAPI.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/ESAPI.properties
+END
+jndiservers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/jndiservers.xml
+END
+cache.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/cache.properties
+END
+jsse.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/jsse.properties
+END
+log4j2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1633570/ofbiz/branches/release13.07/framework/base/config/log4j2.xml
+END
+ofbizrmi-truststore.jks
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/ofbizrmi-truststore.jks
+END
+localdtds.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/localdtds.properties
+END
+ofbizrmi.jks
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/config/ofbizrmi.jks
+END

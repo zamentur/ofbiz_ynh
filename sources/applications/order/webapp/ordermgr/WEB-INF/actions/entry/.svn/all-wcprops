@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1639921/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry
+END
+SetShoppingCart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/SetShoppingCart.groovy
+END
+CheckoutShippingAddress.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/CheckoutShippingAddress.groovy
+END
+SplitShip.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/SplitShip.groovy
+END
+CheckoutOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1538097/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/CheckoutOptions.groovy
+END
+AdditionalPartyListing.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/AdditionalPartyListing.groovy
+END
+ShoppingList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/ShoppingList.groovy
+END
+ShipSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1626405/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/ShipSettings.groovy
+END
+CheckInits.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1555143/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/CheckInits.groovy
+END
+OrderTerms.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/OrderTerms.groovy
+END
+OrderAgreements.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/OrderAgreements.groovy
+END
+CheckoutReview.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/CheckoutReview.groovy
+END
+AddGiftCertificates.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/AddGiftCertificates.groovy
+END
+OptionSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/OptionSettings.groovy
+END
+ShowCart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/ShowCart.groovy
+END
+SetCheckOutTabBar.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/SetCheckOutTabBar.groovy
+END
+ShowPromoText.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/ShowPromoText.groovy
+END
+BillSettings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/BillSettings.groovy
+END
+CheckoutPayment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/CheckoutPayment.groovy
+END
+SetAdditionalParty.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/SetAdditionalParty.groovy
+END
+StorePaymentOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/WEB-INF/actions/entry/StorePaymentOptions.groovy
+END

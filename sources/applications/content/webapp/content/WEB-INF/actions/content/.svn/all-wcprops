@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1560182/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/content
+END
+ContentSearchOptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/content/ContentSearchOptions.groovy
+END
+PrepSeqNo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/content/PrepSeqNo.groovy
+END
+GetContentLookupList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1560182/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/content/GetContentLookupList.groovy
+END
+ContentSearchResults.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/content/ContentSearchResults.groovy
+END

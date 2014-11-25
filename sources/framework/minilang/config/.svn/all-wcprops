@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/config
+END
+MiniLang.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/config/MiniLang.xslt
+END
+MiniLangErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/config/MiniLangErrorUiLabels.xml
+END
+minilang.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/config/minilang.properties
+END
+DefaultMessages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/config/DefaultMessages.xml
+END

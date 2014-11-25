@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/payment
+END
+manualCCTx.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/payment/manualCCTx.ftl
+END
+PrintChecks.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/payment/PrintChecks.fo.ftl
+END
+depositWithdrawPayments.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/payment/depositWithdrawPayments.ftl
+END
+manualTx.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/payment/manualTx.ftl
+END

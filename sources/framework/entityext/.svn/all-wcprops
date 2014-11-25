@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1619101/ofbiz/branches/release13.07/framework/entityext
+END
+ofbiz-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entityext/ofbiz-component.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entityext/build.xml
+END

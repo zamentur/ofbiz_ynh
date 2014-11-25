@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1639919/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/product/inventory
+END
+InventoryIssueServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/product/inventory/InventoryIssueServices.xml
+END
+InventoryReserveServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1639919/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/product/inventory/InventoryReserveServices.xml
+END
+StockMoveServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1609407/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/product/inventory/StockMoveServices.xml
+END
+InventoryServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1626444/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/product/inventory/InventoryServices.xml
+END

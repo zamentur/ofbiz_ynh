@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1639885/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/find
+END
+miniproductlist.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/find/miniproductlist.groovy
+END
+keywordsearch.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1639885/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/find/keywordsearch.groovy
+END
+sidedeepcategory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/find/sidedeepcategory.groovy
+END
+sidecatalogs.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/find/sidecatalogs.groovy
+END
+keywordsearchbox.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/find/keywordsearchbox.groovy
+END
+advancedsearchoptions.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/find/advancedsearchoptions.groovy
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1533758/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports
+END
+PRunsComponentsByFeature.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1533758/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsComponentsByFeature.groovy
+END
+PRunsProductsStacks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1533758/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsProductsStacks.groovy
+END
+ShipmentWorkEffortTasks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/ShipmentWorkEffortTasks.groovy
+END
+ShipmentLabel.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/ShipmentLabel.groovy
+END
+PackageContentsAndOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1533758/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PackageContentsAndOrder.groovy
+END
+PRunsProductsAndOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1533758/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsProductsAndOrder.groovy
+END
+PRunsInfoAndOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1533758/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsInfoAndOrder.groovy
+END
+PRunsProductsByFeature.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1533758/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/PRunsProductsByFeature.groovy
+END
+ShipmentPlanStockReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/reports/ShipmentPlanStockReport.groovy
+END

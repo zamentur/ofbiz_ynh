@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1612191/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo
+END
+ArtifactInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ArtifactInfoFactory.java
+END
+FormWidgetArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/FormWidgetArtifactInfo.java
+END
+ServiceEcaArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ServiceEcaArtifactInfo.java
+END
+ArtifactInfoBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ArtifactInfoBase.java
+END
+ControllerRequestArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ControllerRequestArtifactInfo.java
+END
+EntityArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/EntityArtifactInfo.java
+END
+ControllerViewArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ControllerViewArtifactInfo.java
+END
+ServiceArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1612191/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ServiceArtifactInfo.java
+END
+ScreenWidgetArtifactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/src/org/ofbiz/webtools/artifactinfo/ScreenWidgetArtifactInfo.java
+END

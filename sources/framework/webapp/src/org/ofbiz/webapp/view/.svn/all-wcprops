@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view
+END
+FopRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/FopRenderer.java
+END
+RegionViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/RegionViewHandler.java
+END
+JasperReportsXmlViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/JasperReportsXmlViewHandler.java
+END
+ApacheFopWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/ApacheFopWorker.java
+END
+JPublishWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/JPublishWrapper.java
+END
+JspViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/JspViewHandler.java
+END
+JasperReportsPdfViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/JasperReportsPdfViewHandler.java
+END
+VelocityViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/VelocityViewHandler.java
+END
+ViewHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/ViewHandlerException.java
+END
+WfsViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/WfsViewHandler.java
+END
+DataVisionViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/DataVisionViewHandler.java
+END
+JasperReportsPoiXlsViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/JasperReportsPoiXlsViewHandler.java
+END
+AbstractViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/AbstractViewHandler.java
+END
+JasperReportsJXlsViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/JasperReportsJXlsViewHandler.java
+END
+GenericViewRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/GenericViewRenderer.java
+END
+ViewFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/ViewFactory.java
+END
+FopPdfViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/FopPdfViewHandler.java
+END
+HttpViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/HttpViewHandler.java
+END
+ViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/ViewHandler.java
+END
+JPublishViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/view/JPublishViewHandler.java
+END

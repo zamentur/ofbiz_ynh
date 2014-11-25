@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1618396/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party/party
+END
+PartyServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1618396/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party/party/PartyServices.xml
+END
+PartyMapProcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party/party/PartyMapProcs.xml
+END
+PartyInvitationServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party/party/PartyInvitationServices.xml
+END
+PartyPermissionServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party/party/PartyPermissionServices.xml
+END
+PartySimpleMethods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party/party/PartySimpleMethods.xml
+END
+PartySimpleEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1557448/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party/party/PartySimpleEvents.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1626472/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/entry/order
+END
+shipGroupConfirmSummary.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/entry/order/shipGroupConfirmSummary.ftl
+END
+orderitems.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/entry/order/orderitems.ftl
+END
+orderheaderinfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1626472/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/entry/order/orderheaderinfo.ftl
+END
+orderpaymentinfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/webapp/ordermgr/entry/order/orderpaymentinfo.ftl
+END

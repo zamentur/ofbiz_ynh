@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/data
+END
+UsTaxAccountGroups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/UsTaxAccountGroups.xml
+END
+DemoGlSetupData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/DemoGlSetupData.xml
+END
+DemoAcctgTransactionData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/data/DemoAcctgTransactionData.xml
+END
+AccountingTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/AccountingTypeData.xml
+END
+AccountingSecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/AccountingSecurityPermissionSeedData.xml
+END
+AccountingScheduledServiceData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/AccountingScheduledServiceData.xml
+END
+DemoFinAccountData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/DemoFinAccountData.xml
+END
+DemoAccountingUserData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/DemoAccountingUserData.xml
+END
+DemoGeneralChartOfAccounts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/data/DemoGeneralChartOfAccounts.xml
+END
+AccountingHelpData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/AccountingHelpData.xml
+END
+AccountingSecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/AccountingSecurityGroupDemoData.xml
+END
+AccountingPortletData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/AccountingPortletData.xml
+END
+PaymentGatewayConfData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/PaymentGatewayConfData.xml
+END
+DemoOrganizationData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/DemoOrganizationData.xml
+END
+DemoPaymentsInvoices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/DemoPaymentsInvoices.xml
+END
+DemoAssetMaintData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/DemoAssetMaintData.xml
+END
+DemoTaxAuthority.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/data/DemoTaxAuthority.xml
+END

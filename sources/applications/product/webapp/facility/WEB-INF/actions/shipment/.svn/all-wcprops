@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1632775/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment
+END
+FindShipment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/FindShipment.groovy
+END
+ReviewOrdersNotPickedOrPacked.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/ReviewOrdersNotPickedOrPacked.groovy
+END
+QuickShipOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/QuickShipOrder.groovy
+END
+EditShipmentPackages.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/EditShipmentPackages.groovy
+END
+AddItemsFromInventory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/AddItemsFromInventory.groovy
+END
+EditShipment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/EditShipment.groovy
+END
+ReceiveInventoryAgainstPurchaseOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/ReceiveInventoryAgainstPurchaseOrder.groovy
+END
+EditShipmentItems.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/EditShipmentItems.groovy
+END
+WeightPackage.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/WeightPackage.groovy
+END
+PackingSlip.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/PackingSlip.groovy
+END
+EditShipmentPlan.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/EditShipmentPlan.groovy
+END
+AddItemsFromOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/AddItemsFromOrder.groovy
+END
+PackOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1632775/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/PackOrder.groovy
+END
+VerifyPick.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/VerifyPick.groovy
+END
+ShipmentManifest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/ShipmentManifest.groovy
+END
+PrintPickSheets.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/PrintPickSheets.groovy
+END
+EditShipmentRouteSegments.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/EditShipmentRouteSegments.groovy
+END
+ViewShipment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/shipment/ViewShipment.groovy
+END

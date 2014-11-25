@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1639885/ofbiz/branches/release13.07/applications/product/webapp/catalog
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/index.jsp
+END
+FastLoadCache.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/FastLoadCache.ftl
+END
+main.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/main.ftl
+END

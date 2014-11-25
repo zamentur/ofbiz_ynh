@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common
+END
+JavaScriptTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/JavaScriptTest.js
+END
+PortalPageMethods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/PortalPageMethods.xml
+END
+PortalPageServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/PortalPageServices.xml
+END
+CdyneServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/CdyneServices.xml
+END
+BshServiceTest.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/BshServiceTest.bsh
+END
+EnumerationServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/EnumerationServices.xml
+END
+GroovyServiceTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/GroovyServiceTest.groovy
+END
+CommonServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/script/org/ofbiz/common/CommonServices.xml
+END

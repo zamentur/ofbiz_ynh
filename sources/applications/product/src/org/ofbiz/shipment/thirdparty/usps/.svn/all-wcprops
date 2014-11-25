@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/thirdparty/usps
+END
+UspsServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/thirdparty/usps/UspsServices.java
+END
+UspsServicesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/thirdparty/usps/UspsServicesTests.java
+END
+UspsMockApiServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment/thirdparty/usps/UspsMockApiServlet.java
+END

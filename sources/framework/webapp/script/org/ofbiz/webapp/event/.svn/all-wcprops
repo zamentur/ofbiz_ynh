@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/script/org/ofbiz/webapp/event
+END
+processWfs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/script/org/ofbiz/webapp/event/processWfs.ftl
+END
+formatWfs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/script/org/ofbiz/webapp/event/formatWfs.ftl
+END

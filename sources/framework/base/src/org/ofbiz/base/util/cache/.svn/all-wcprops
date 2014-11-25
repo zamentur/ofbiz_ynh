@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache
+END
+UtilCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/UtilCache.java
+END
+SoftRefCacheLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/SoftRefCacheLine.java
+END
+JdbmRecordManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/JdbmRecordManager.java
+END
+JdbmSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/JdbmSerializer.java
+END
+HardRefCacheLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/HardRefCacheLine.java
+END
+CacheListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/CacheListener.java
+END
+CacheLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/CacheLine.java
+END
+CacheSoftReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/src/org/ofbiz/base/util/cache/CacheSoftReference.java
+END

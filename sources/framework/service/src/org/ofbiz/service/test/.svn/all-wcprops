@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1547186/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/test
+END
+AbstractXmlRpcTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/test/AbstractXmlRpcTestCase.java
+END
+ServiceSOAPTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/test/ServiceSOAPTests.java
+END
+XmlRpcTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1547186/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/test/XmlRpcTests.java
+END
+ServiceEngineTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/test/ServiceEngineTests.java
+END
+ServiceEngineTestServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/test/ServiceEngineTestServices.java
+END

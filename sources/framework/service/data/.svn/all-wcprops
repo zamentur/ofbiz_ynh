@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/data
+END
+ScheduledServiceData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/data/ScheduledServiceData.xml
+END
+ServiceSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/data/ServiceSeedData.xml
+END
+ServiceSecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/data/ServiceSecurityPermissionSeedData.xml
+END
+ServiceDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/data/ServiceDemoData.xml
+END
+ScheduledServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/data/ScheduledServices.xml
+END
+ServiceSecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/data/ServiceSecurityGroupDemoData.xml
+END

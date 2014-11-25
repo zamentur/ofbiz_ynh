@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib
+END
+tomcat-7.0.57-catalina-ha.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-7.0.57-catalina-ha.jar
+END
+tomcat-7.0.57-catalina-tribes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-7.0.57-catalina-tribes.jar
+END
+tomcat-7.0.57-tomcat-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-7.0.57-tomcat-util.jar
+END
+ecj-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1615298/ofbiz/branches/release13.07/framework/catalina/lib/ecj-4.4.jar
+END
+tomcat-7.0.57-jasper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-7.0.57-jasper.jar
+END
+tomcat-7.0.57-tomcat-coyote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-7.0.57-tomcat-coyote.jar
+END
+tomcat-7.0.57-catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-7.0.57-catalina.jar
+END
+tomcat-extras-7.0.57-tomcat-juli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-extras-7.0.57-tomcat-juli.jar
+END
+tomcat-extras-7.0.57-tomcat-juli-adapters.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-extras-7.0.57-tomcat-juli-adapters.jar
+END
+tomcat-7.0.57-tomcat-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1640300/ofbiz/branches/release13.07/framework/catalina/lib/tomcat-7.0.57-tomcat-api.jar
+END

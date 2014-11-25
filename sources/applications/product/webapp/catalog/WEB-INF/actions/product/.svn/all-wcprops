@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1618355/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product
+END
+EditProductContentContent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/EditProductContentContent.groovy
+END
+EditProductQuickAdmin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/EditProductQuickAdmin.groovy
+END
+EditProductSEO.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/EditProductSEO.groovy
+END
+QuickAddVariants.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/QuickAddVariants.groovy
+END
+EditProductAssoc.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/EditProductAssoc.groovy
+END
+BestProducts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1603733/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/BestProducts.groovy
+END
+EditProductContent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1618355/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/EditProductContent.groovy
+END
+ApplyFeaturesFromGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/ApplyFeaturesFromGroup.groovy
+END
+EditProductFeatures.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/EditProductFeatures.groovy
+END
+ApplyFeaturesFromCategory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/ApplyFeaturesFromCategory.groovy
+END
+EditProductInventoryItems.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/product/EditProductInventoryItems.groovy
+END

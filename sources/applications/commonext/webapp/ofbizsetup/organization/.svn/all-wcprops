@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/commonext/webapp/ofbizsetup/organization
+END
+viewcontact.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/commonext/webapp/ofbizsetup/organization/viewcontact.ftl
+END
+changeOrgPartyId.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/commonext/webapp/ofbizsetup/organization/changeOrgPartyId.groovy
+END

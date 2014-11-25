@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entityext/data
+END
+EntityExtSecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entityext/data/EntityExtSecurityPermissionSeedData.xml
+END
+EntityExtTypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entityext/data/EntityExtTypeData.xml
+END
+EntityExtSecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entityext/data/EntityExtSecurityGroupDemoData.xml
+END
+EntityScheduledServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entityext/data/EntityScheduledServices.xml
+END

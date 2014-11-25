@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/jobshopmgt
+END
+ProductionRunCosts.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/jobshopmgt/ProductionRunCosts.ftl
+END
+CuttingListReport.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/jobshopmgt/CuttingListReport.fo.ftl
+END
+ShowProductionRun.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/jobshopmgt/ShowProductionRun.groovy
+END
+MrpReports.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/jobshopmgt/MrpReports.ftl
+END
+ProductionRunTasksInfo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/jobshopmgt/ProductionRunTasksInfo.ftl
+END
+ProductionRun.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/jobshopmgt/ProductionRun.fo.ftl
+END

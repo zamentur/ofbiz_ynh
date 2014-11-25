@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1639893/ofbiz/branches/release13.07/framework/common/webcommon
+END
+changePassword.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1546786/ofbiz/branches/release13.07/framework/common/webcommon/changePassword.ftl
+END
+login.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/login.ftl
+END
+error.fo.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1589670/ofbiz/branches/release13.07/framework/common/webcommon/error.fo.ftl
+END
+viewBlocked.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/viewBlocked.ftl
+END
+forgotPassword.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/webcommon/forgotPassword.ftl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/dtd
+END
+ofbiz-properties.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/dtd/ofbiz-properties.xsd
+END
+base-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/dtd/base-catalog.xml
+END
+component-loader.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/dtd/component-loader.xsd
+END
+jndi-config.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/dtd/jndi-config.xsd
+END
+ofbiz-component.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/dtd/ofbiz-component.xsd
+END
+ofbiz-containers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/dtd/ofbiz-containers.xsd
+END

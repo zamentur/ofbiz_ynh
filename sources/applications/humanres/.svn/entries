@@ -1,0 +1,123 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/humanres
+http://svn.apache.org/repos/asf
+
+
+
+2014-09-20T15:00:22.551924Z
+1626451
+apatel
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+entitydef
+dir
+
+webapp
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-25T13:20:34.802029Z
+bac13ce7096cf6559bfc213c3387489b
+2011-08-24T03:25:12.393715Z
+1160969
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3478
+
+servicedef
+dir
+
+documents
+dir
+
+widget
+dir
+
+script
+dir
+
+config
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2014-11-25T13:20:34.802029Z
+8c4def2c908a7c26558a9df311ba736b
+2012-06-21T07:21:49.141291Z
+1352431
+hansbak
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2392
+
+data
+dir
+

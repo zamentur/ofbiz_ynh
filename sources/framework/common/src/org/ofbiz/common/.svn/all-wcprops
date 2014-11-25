@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1619043/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common
+END
+JsLanguageFileMappingCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1566564/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/JsLanguageFileMappingCreator.java
+END
+CommonServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1619043/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/CommonServices.java
+END
+CommonEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1557463/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/CommonEvents.java
+END
+FtpServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/FtpServices.java
+END
+JsLanguageFilesMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1566564/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/JsLanguageFilesMapping.java
+END
+JavaScriptTest.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/JavaScriptTest.js
+END
+FindServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/FindServices.java
+END
+CommonWorkers.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/CommonWorkers.java
+END
+CdyneServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/CdyneServices.java
+END
+UrlServletHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/UrlServletHelper.java
+END
+DataModelConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/DataModelConstants.java
+END
+KeywordSearchUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/KeywordSearchUtil.java
+END

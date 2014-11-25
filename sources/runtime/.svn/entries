@@ -1,0 +1,49 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/runtime
+http://svn.apache.org/repos/asf
+
+
+
+2013-09-17T06:04:51.121510Z
+1523916
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+catalina
+dir
+
+indexes
+dir
+
+output
+dir
+
+tmp
+dir
+
+logs
+dir
+
+tempfiles
+dir
+
+data
+dir
+

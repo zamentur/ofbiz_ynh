@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1641549/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service
+END
+GenericResultWaiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/GenericResultWaiter.java
+END
+LocalDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/LocalDispatcherFactory.java
+END
+ServiceXaWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1539651/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ServiceXaWrapper.java
+END
+ServiceValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ServiceValidationException.java
+END
+ServiceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1641549/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ServiceUtil.java
+END
+RunningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/RunningService.java
+END
+ModelPermGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ModelPermGroup.java
+END
+ServiceAuthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ServiceAuthException.java
+END
+LocalDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/LocalDispatcher.java
+END
+ServiceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ServiceContainer.java
+END
+ExecutionServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ExecutionServiceException.java
+END
+DispatchContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/DispatchContext.java
+END
+ModelServiceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1609156/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ModelServiceReader.java
+END
+ModelNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ModelNotification.java
+END
+GenericAbstractDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/GenericAbstractDispatcher.java
+END
+ServiceDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1604364/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ServiceDispatcher.java
+END
+ModelPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ModelPermission.java
+END
+ModelServiceIface.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ModelServiceIface.java
+END
+GenericServiceCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/GenericServiceCallback.java
+END
+GenericDispatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1609156/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/GenericDispatcherFactory.java
+END
+GenericRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/GenericRequester.java
+END
+GenericServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/GenericServiceException.java
+END
+GeneralServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/GeneralServiceException.java
+END
+ModelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1609156/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ModelService.java
+END
+ModelParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/ModelParam.java
+END

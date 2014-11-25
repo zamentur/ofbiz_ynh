@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 76
+plugin.jar
+cobertura-1.9.4.1.jar
+asm-3.0.jar
+oro-2.0.8.jar
+asm-tree-3.0.jar
+
+END

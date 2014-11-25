@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1626855/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/payment
+END
+GiftCertificateServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/payment/GiftCertificateServices.java
+END
+PaymentMethodServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1626469/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/payment/PaymentMethodServices.java
+END
+PaymentGatewayServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/payment/PaymentGatewayServices.java
+END
+BillingAccountWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/payment/BillingAccountWorker.java
+END
+PaymentWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1626855/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/payment/PaymentWorker.java
+END

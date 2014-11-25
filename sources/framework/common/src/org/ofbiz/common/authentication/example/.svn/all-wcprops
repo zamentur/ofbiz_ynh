@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/authentication/example
+END
+TestPassAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/authentication/example/TestPassAuthenticator.java
+END
+TestFailAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/src/org/ofbiz/common/authentication/example/TestFailAuthenticator.java
+END

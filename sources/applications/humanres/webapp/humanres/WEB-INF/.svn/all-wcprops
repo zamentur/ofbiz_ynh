@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1609395/ofbiz/branches/release13.07/applications/humanres/webapp/humanres/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/humanres/webapp/humanres/WEB-INF/web.xml
+END
+controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1609395/ofbiz/branches/release13.07/applications/humanres/webapp/humanres/WEB-INF/controller.xml
+END

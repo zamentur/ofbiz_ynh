@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1609088/ofbiz/branches/release13.07/applications/accounting/webapp/ap/invoices
+END
+CommissionRun.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/ap/invoices/CommissionRun.ftl
+END
+PurchaseInvoices.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1609088/ofbiz/branches/release13.07/applications/accounting/webapp/ap/invoices/PurchaseInvoices.ftl
+END
+CommissionReport.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/ap/invoices/CommissionReport.ftl
+END

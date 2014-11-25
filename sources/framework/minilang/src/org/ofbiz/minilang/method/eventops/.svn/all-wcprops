@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/eventops
+END
+FieldToSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/eventops/FieldToSession.java
+END
+SessionToField.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/eventops/SessionToField.java
+END
+WebappPropertyToField.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/eventops/WebappPropertyToField.java
+END
+RequestParametersToList.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/eventops/RequestParametersToList.java
+END
+FieldToRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/eventops/FieldToRequest.java
+END
+RequestToField.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/minilang/src/org/ofbiz/minilang/method/eventops/RequestToField.java
+END

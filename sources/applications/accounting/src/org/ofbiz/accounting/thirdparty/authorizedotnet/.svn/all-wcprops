@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1588734/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/authorizedotnet
+END
+CPRespPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/authorizedotnet/CPRespPositions.java
+END
+AIMPaymentServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1588734/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/authorizedotnet/AIMPaymentServices.java
+END
+AIMRespPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/authorizedotnet/AIMRespPositions.java
+END
+AuthorizeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/authorizedotnet/AuthorizeResponse.java
+END

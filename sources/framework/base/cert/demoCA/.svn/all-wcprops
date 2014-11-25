@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1598546/ofbiz/branches/release13.07/framework/base/cert/demoCA
+END
+index.txt.attr.old
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/index.txt.attr.old
+END
+serial.old
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/serial.old
+END
+index.txt.attr
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/index.txt.attr
+END
+serial
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/serial
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/cacert.pem
+END
+index.txt.old
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/index.txt.old
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/index.txt
+END

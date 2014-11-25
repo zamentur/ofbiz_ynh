@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile
+END
+ModelDataFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/ModelDataFileReader.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/Record.java
+END
+ModelRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/ModelRecord.java
+END
+ModelField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/ModelField.java
+END
+DataFileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/DataFileException.java
+END
+RecordIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/RecordIterator.java
+END
+DataFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/DataFile.java
+END
+DataFile2EntityXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/DataFile2EntityXml.java
+END
+ModelDataFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/datafile/src/org/ofbiz/datafile/ModelDataFile.java
+END

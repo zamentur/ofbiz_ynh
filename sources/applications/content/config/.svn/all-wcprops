@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/content/config
+END
+forum.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/config/forum.properties
+END
+ContentErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/config/ContentErrorUiLabels.xml
+END
+content.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/config/content.properties
+END
+openoffice-uno.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/config/openoffice-uno.properties
+END
+ContentEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/config/ContentEntityLabels.xml
+END
+ContentUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/content/config/ContentUiLabels.xml
+END
+contentsearch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/config/contentsearch.properties
+END
+freemarkerTransforms.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/config/freemarkerTransforms.properties
+END

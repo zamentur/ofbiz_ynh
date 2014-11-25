@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1533553/ofbiz/branches/release13.07/applications/manufacturing/servicedef
+END
+services_bom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/servicedef/services_bom.xml
+END
+services_mrp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/servicedef/services_mrp.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/servicedef/services.xml
+END
+services_formula.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/servicedef/services_formula.xml
+END
+services_routing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/servicedef/services_routing.xml
+END
+services_calendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/servicedef/services_calendar.xml
+END
+services_production_run.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1533553/ofbiz/branches/release13.07/applications/manufacturing/servicedef/services_production_run.xml
+END
+secas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/servicedef/secas.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1604556/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement
+END
+RotateImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/RotateImage.java
+END
+ImageManagementServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1604556/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/ImageManagementServices.java
+END
+CropImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/CropImage.java
+END
+ImageUrlServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/ImageUrlServlet.java
+END
+FrameImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/FrameImage.java
+END
+ReplaceImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/ReplaceImage.java
+END
+ImageManagementHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1533736/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/ImageManagementHelper.java
+END
+WatermarkImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/product/imagemanagement/WatermarkImage.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/bi/webapp/bi/reportbuilder
+END
+RenderStarSchemaReport.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/bi/webapp/bi/reportbuilder/RenderStarSchemaReport.ftl
+END
+SelectStarSchemaFields.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/bi/webapp/bi/reportbuilder/SelectStarSchemaFields.ftl
+END

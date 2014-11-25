@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1626459/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control
+END
+LoginEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/LoginEventListener.java
+END
+LoginWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/LoginWorker.java
+END
+RequestHandlerExceptionAllowExternalRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/RequestHandlerExceptionAllowExternalRequests.java
+END
+ControlServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/ControlServlet.java
+END
+ProtectViewWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/ProtectViewWorker.java
+END
+RequestHandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/RequestHandlerException.java
+END
+LoginCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/LoginCheck.java
+END
+RequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1626459/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/RequestHandler.java
+END
+ControlEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/ControlEventListener.java
+END
+ConfigXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/ConfigXMLReader.java
+END
+ContextFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/ContextFilter.java
+END
+ControlActivationEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/control/ControlActivationEventListener.java
+END

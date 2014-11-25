@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar
+END
+TemporalExpressionPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/TemporalExpressionPrinter.java
+END
+RecurrenceInfoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/RecurrenceInfoException.java
+END
+RecurrenceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/RecurrenceInfo.java
+END
+RecurrenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/RecurrenceUtil.java
+END
+ExpressionUiHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/ExpressionUiHelper.java
+END
+TemporalExpressionWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/TemporalExpressionWorker.java
+END
+TemporalExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/TemporalExpression.java
+END
+TemporalExpressionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/TemporalExpressionVisitor.java
+END
+RecurrenceRuleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/RecurrenceRuleException.java
+END
+RecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/RecurrenceRule.java
+END
+TemporalExpressions.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/calendar/TemporalExpressions.java
+END

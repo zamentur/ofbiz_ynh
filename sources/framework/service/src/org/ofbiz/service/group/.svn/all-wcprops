@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/group
+END
+ServiceGroupReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/group/ServiceGroupReader.java
+END
+ServiceGroupEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/group/ServiceGroupEngine.java
+END
+GroupModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/group/GroupModel.java
+END
+GroupServiceModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/src/org/ofbiz/service/group/GroupServiceModel.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1566564/ofbiz/branches/release13.07/framework/widget/dtd
+END
+widget-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/dtd/widget-catalog.xml
+END
+widget-screen.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1566564/ofbiz/branches/release13.07/framework/widget/dtd/widget-screen.xsd
+END
+widget-tree.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/dtd/widget-tree.xsd
+END
+widget-form.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1557448/ofbiz/branches/release13.07/framework/widget/dtd/widget-form.xsd
+END
+widget-menu.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/dtd/widget-menu.xsd
+END

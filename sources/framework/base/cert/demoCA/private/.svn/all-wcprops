@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/private
+END
+cakey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/demoCA/private/cakey.pem
+END

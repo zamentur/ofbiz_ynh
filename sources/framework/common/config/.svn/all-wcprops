@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1628412/ofbiz/branches/release13.07/framework/common/config
+END
+cdyne.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/cdyne.properties
+END
+captcha.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/captcha.properties
+END
+fo-styles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/fo-styles.properties
+END
+CommonHelpUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/CommonHelpUiLabels.xml
+END
+CommonErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/CommonErrorUiLabels.xml
+END
+TemporalExpressionUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/TemporalExpressionUiLabels.xml
+END
+keywordsearch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/keywordsearch.properties
+END
+PrefErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/PrefErrorUiLabels.xml
+END
+CommonEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/CommonEntityLabels.xml
+END
+SecurityUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/SecurityUiLabels.xml
+END
+CommonUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1628412/ofbiz/branches/release13.07/framework/common/config/CommonUiLabels.xml
+END
+SecurityextUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/SecurityextUiLabels.xml
+END
+general.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1626480/ofbiz/branches/release13.07/framework/common/config/general.properties
+END
+CommonPortalEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/common/config/CommonPortalEntityLabels.xml
+END

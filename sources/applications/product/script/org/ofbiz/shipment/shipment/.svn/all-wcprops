@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1641055/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/shipment/shipment
+END
+ShipmentGatewayConfigServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/shipment/shipment/ShipmentGatewayConfigServices.xml
+END
+ShipmentServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1641055/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/shipment/shipment/ShipmentServices.xml
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1631309/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen
+END
+ScreenFopViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ScreenFopViewHandler.java
+END
+ScreenStringRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ScreenStringRenderer.java
+END
+ModelScreenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ModelScreenAction.java
+END
+ScreenRenderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ScreenRenderException.java
+END
+ModelScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ModelScreen.java
+END
+ModelScreenWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ModelScreenWidget.java
+END
+IterateSectionWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/IterateSectionWidget.java
+END
+ScreenRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ScreenRenderer.java
+END
+ModelScreenCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ModelScreenCondition.java
+END
+ScreenFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/ScreenFactory.java
+END
+HtmlWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1631309/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/HtmlWidget.java
+END
+MacroScreenRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1560182/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/MacroScreenRenderer.java
+END
+MacroScreenViewHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/widget/src/org/ofbiz/widget/screen/MacroScreenViewHandler.java
+END

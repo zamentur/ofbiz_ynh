@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config
+END
+payment.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/payment.properties
+END
+paymentTest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/paymentTest.properties
+END
+AccountingEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/AccountingEntityLabels.xml
+END
+AccountingUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/AccountingUiLabels.xml
+END
+AccountingConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/AccountingConfig.properties
+END
+linehandler.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/linehandler.properties
+END
+AccountingErrorUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/AccountingErrorUiLabels.xml
+END
+arithmetic.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/config/arithmetic.properties
+END

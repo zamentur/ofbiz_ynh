@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1628941/ofbiz/branches/release13.07/applications/commonext/webapp/ordermgr-js
+END
+OrderShippingInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1612204/ofbiz/branches/release13.07/applications/commonext/webapp/ordermgr-js/OrderShippingInfo.js
+END
+order.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1612204/ofbiz/branches/release13.07/applications/commonext/webapp/ordermgr-js/order.js
+END
+geoAutoCompleter.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1612204/ofbiz/branches/release13.07/applications/commonext/webapp/ordermgr-js/geoAutoCompleter.js
+END
+return.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1612204/ofbiz/branches/release13.07/applications/commonext/webapp/ordermgr-js/return.js
+END
+ConvertUom.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1612204/ofbiz/branches/release13.07/applications/commonext/webapp/ordermgr-js/ConvertUom.js
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1618413/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/order
+END
+CheckoutServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/order/CheckoutServices.xml
+END
+OrderSimpleMethods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/order/OrderSimpleMethods.xml
+END
+OrderReturnServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1618413/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/order/OrderReturnServices.xml
+END
+OrderServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1547549/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/order/OrderServices.xml
+END
+OrderDeliveryServices.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order/order/OrderDeliveryServices.xml
+END

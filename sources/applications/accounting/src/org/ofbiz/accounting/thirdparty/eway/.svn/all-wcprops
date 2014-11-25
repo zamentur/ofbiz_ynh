@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/eway
+END
+EwayServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/eway/EwayServices.java
+END
+GatewayRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/eway/GatewayRequest.java
+END
+GatewayConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/eway/GatewayConnector.java
+END
+GatewayResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/src/org/ofbiz/accounting/thirdparty/eway/GatewayResponse.java
+END

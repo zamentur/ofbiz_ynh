@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1589592/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity
+END
+CheckDb.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/CheckDb.groovy
+END
+EntityMaint.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1589592/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/EntityMaint.groovy
+END
+EntityRefList.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/EntityRefList.groovy
+END
+ViewGeneric.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/ViewGeneric.groovy
+END
+EntityRef.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/EntityRef.groovy
+END
+ViewRelations.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/ViewRelations.groovy
+END
+EntitySQLProcessor.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/EntitySQLProcessor.groovy
+END
+FindGeneric.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1560700/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/FindGeneric.groovy
+END
+XmlDsDump.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/XmlDsDump.groovy
+END
+EntityPerformanceTest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webtools/webapp/webtools/WEB-INF/actions/entity/EntityPerformanceTest.groovy
+END

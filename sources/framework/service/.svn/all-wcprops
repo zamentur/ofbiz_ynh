@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1641549/ofbiz/branches/release13.07/framework/service
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/build.xml
+END
+ofbiz-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/ofbiz-component.xml
+END

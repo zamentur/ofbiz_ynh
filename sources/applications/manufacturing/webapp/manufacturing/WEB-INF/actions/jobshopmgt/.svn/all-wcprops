@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt
+END
+ProductionRunFixedAssets.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ProductionRunFixedAssets.groovy
+END
+ProductionRunComponents.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ProductionRunComponents.groovy
+END
+ProductionRunDeclaration.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ProductionRunDeclaration.groovy
+END
+ProductionRunTasks.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ProductionRunTasks.groovy
+END
+WorkWithShipmentPlans.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/WorkWithShipmentPlans.groovy
+END
+ProductionRunContent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ProductionRunContent.groovy
+END
+ViewProductionRun.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ViewProductionRun.groovy
+END
+ProductionRunCosts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ProductionRunCosts.groovy
+END
+productionRunAllFixedAssets.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/productionRunAllFixedAssets.groovy
+END
+ProductionRunActualComponents.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/jobshopmgt/ProductionRunActualComponents.groovy
+END

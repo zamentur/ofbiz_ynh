@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/entitydef
+END
+entitymodel_old.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/entitydef/entitymodel_old.xml
+END
+entitymodel_reports.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/entitydef/entitymodel_reports.xml
+END
+entitymodel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1530274/ofbiz/branches/release13.07/applications/accounting/entitydef/entitymodel.xml
+END
+eecas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/entitydef/eecas.xml
+END
+entitygroup_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/entitydef/entitygroup_olap.xml
+END
+entitymodel_olap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/entitydef/entitymodel_olap.xml
+END

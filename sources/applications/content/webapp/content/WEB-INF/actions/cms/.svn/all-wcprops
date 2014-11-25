@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms
+END
+GetMenuContext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms/GetMenuContext.groovy
+END
+UserPermPrep.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms/UserPermPrep.groovy
+END
+MostRecentPrep.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms/MostRecentPrep.groovy
+END
+AdvancedSearchPrep.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms/AdvancedSearchPrep.groovy
+END
+FeaturePrep.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms/FeaturePrep.groovy
+END
+Search.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1523916/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms/Search.groovy
+END
+CmsEditAddPrep.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/content/webapp/content/WEB-INF/actions/cms/CmsEditAddPrep.groovy
+END

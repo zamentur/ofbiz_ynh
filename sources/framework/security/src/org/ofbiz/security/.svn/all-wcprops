@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/security/src/org/ofbiz/security
+END
+Security.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/security/src/org/ofbiz/security/Security.java
+END
+SecurityConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/security/src/org/ofbiz/security/SecurityConfigurationException.java
+END
+SecurityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/security/src/org/ofbiz/security/SecurityFactory.java
+END
+OFBizSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/security/src/org/ofbiz/security/OFBizSecurity.java
+END

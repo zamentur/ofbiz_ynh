@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/finaccounttrans
+END
+GlReconciledFinAccountTrans.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/finaccounttrans/GlReconciledFinAccountTrans.ftl
+END
+ShowGlTransactions.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/finaccounttrans/ShowGlTransactions.ftl
+END
+FinAccountTrans.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/accounting/webapp/accounting/finaccounttrans/FinAccountTrans.ftl
+END

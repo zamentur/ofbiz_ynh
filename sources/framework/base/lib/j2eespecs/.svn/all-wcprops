@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1619315/ofbiz/branches/release13.07/framework/base/lib/j2eespecs
+END
+geronimo-jta_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/geronimo-jta_1.1_spec-1.1.1.jar
+END
+annotations-api-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1598121/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/annotations-api-3.0.jar
+END
+geronimo-activation_1.0.2_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/geronimo-activation_1.0.2_spec-1.0.jar
+END
+geronimo-j2ee-connector_1.5_spec-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1619315/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/geronimo-j2ee-connector_1.5_spec-2.0.0.jar
+END
+jsp-api-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1598121/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/jsp-api-2.2.jar
+END
+geronimo-saaj_1.3_spec-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1564533/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/geronimo-saaj_1.3_spec-1.1.jar
+END
+geronimo-jaxr_1.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/geronimo-jaxr_1.0_spec-1.0.jar
+END
+el-api-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1598121/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/el-api-2.2.jar
+END
+geronimo-jaxrpc_1.1_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/geronimo-jaxrpc_1.1_spec-1.0.jar
+END
+servlet-api-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1598121/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/servlet-api-3.0.jar
+END
+geronimo-jms_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1619315/ofbiz/branches/release13.07/framework/base/lib/j2eespecs/geronimo-jms_1.1_spec-1.1.1.jar
+END

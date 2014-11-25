@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/webdav
+END
+RequestHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/webdav/RequestHandlerFactory.java
+END
+ResponseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/webdav/ResponseHelper.java
+END
+PropFindHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/webdav/PropFindHelper.java
+END
+RequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/webdav/RequestHandler.java
+END
+WebDavUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/webdav/WebDavUtil.java
+END
+WebDavServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/src/org/ofbiz/webapp/webdav/WebDavServlet.java
+END

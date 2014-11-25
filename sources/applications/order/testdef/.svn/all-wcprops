@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/testdef
+END
+quotetests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/testdef/quotetests.xml
+END
+ShoppingCartTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/testdef/ShoppingCartTests.xml
+END
+ShoppingListTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/testdef/ShoppingListTests.xml
+END
+CustRequestTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/testdef/CustRequestTests.xml
+END
+OrderTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/order/testdef/OrderTest.xml
+END

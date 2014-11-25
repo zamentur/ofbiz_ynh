@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1598546/ofbiz/branches/release13.07/framework/base/cert
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1598546/ofbiz/branches/release13.07/framework/base/cert/README
+END
+certreq.pem
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/certreq.pem
+END
+newcert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/base/cert/newcert.pem
+END

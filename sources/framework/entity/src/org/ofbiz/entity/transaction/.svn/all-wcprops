@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction
+END
+JNDIFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/JNDIFactory.java
+END
+GenericXaResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/GenericXaResource.java
+END
+TransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/TransactionFactory.java
+END
+TransactionFactoryInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/TransactionFactoryInterface.java
+END
+DumbFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/DumbFactory.java
+END
+GenericTransactionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/GenericTransactionException.java
+END
+TransactionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/TransactionUtil.java
+END
+DebugXaResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/src/org/ofbiz/entity/transaction/DebugXaResource.java
+END

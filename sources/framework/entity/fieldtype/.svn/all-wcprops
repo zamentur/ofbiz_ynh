@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype
+END
+fieldtypeaxion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypeaxion.xml
+END
+fieldtypemssql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypemssql.xml
+END
+fieldtypepostnew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypepostnew.xml
+END
+fieldtypederby.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypederby.xml
+END
+fieldtypemysql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypemysql.xml
+END
+fieldtypeoracle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypeoracle.xml
+END
+fieldtypefirebird.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypefirebird.xml
+END
+fieldtypepostgres.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypepostgres.xml
+END
+fieldtypesybase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypesybase.xml
+END
+fieldtypehsql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypehsql.xml
+END
+fieldtypedaffodil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypedaffodil.xml
+END
+fieldtypesapdb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypesapdb.xml
+END
+fieldtypeadvantage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/entity/fieldtype/fieldtypeadvantage.xml
+END

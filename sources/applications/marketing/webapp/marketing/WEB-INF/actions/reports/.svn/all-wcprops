@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1576380/ofbiz/branches/release13.07/applications/marketing/webapp/marketing/WEB-INF/actions/reports
+END
+EmailStatusReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/webapp/marketing/WEB-INF/actions/reports/EmailStatusReport.groovy
+END
+TrackingCodeReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1576380/ofbiz/branches/release13.07/applications/marketing/webapp/marketing/WEB-INF/actions/reports/TrackingCodeReport.groovy
+END
+MarketingCampaignReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/webapp/marketing/WEB-INF/actions/reports/MarketingCampaignReport.groovy
+END
+PartyStatusReport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/marketing/webapp/marketing/WEB-INF/actions/reports/PartyStatusReport.groovy
+END

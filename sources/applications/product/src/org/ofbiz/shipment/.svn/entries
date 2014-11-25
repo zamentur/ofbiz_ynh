@@ -1,0 +1,49 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/product/src/org/ofbiz/shipment
+http://svn.apache.org/repos/asf
+
+
+
+2014-10-18T11:59:37.407824Z
+1632775
+ashish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+picklist
+dir
+
+weightPackage
+dir
+
+verify
+dir
+
+shipment
+dir
+
+thirdparty
+dir
+
+packing
+dir
+
+test
+dir
+

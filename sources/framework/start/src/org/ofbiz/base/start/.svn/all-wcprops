@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1617951/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start
+END
+Start.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1617951/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/Start.java
+END
+Instrumenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/Instrumenter.java
+END
+rmi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/rmi.properties
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1577745/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/Config.java
+END
+both.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/both.properties
+END
+start.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/start.properties
+END
+jetty.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/jetty.properties
+END
+setup.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/setup.properties
+END
+pos.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/pos.properties
+END
+CommonsDaemonStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1617951/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/CommonsDaemonStart.java
+END
+install.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/install.properties
+END
+StartupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/StartupException.java
+END
+Classpath.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/Classpath.java
+END
+testlist.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/testlist.properties
+END
+InstrumenterWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/InstrumenterWorker.java
+END
+StartupLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/StartupLoader.java
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/start/src/org/ofbiz/base/start/test.properties
+END

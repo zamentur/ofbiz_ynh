@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/templates/email
+END
+VerifyEmailAddressNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/templates/email/VerifyEmailAddressNotification.ftl
+END
+CreatePartyNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/templates/email/CreatePartyNotification.ftl
+END
+ChangePersonalInfoNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/templates/email/ChangePersonalInfoNotification.ftl
+END
+AccountActivatedNotification.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/templates/email/AccountActivatedNotification.ftl
+END

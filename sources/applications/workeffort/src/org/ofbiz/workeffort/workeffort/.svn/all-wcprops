@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort
+END
+WorkEffortServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/WorkEffortServices.java
+END
+ICalHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/ICalHandlerFactory.java
+END
+WorkEffortSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/WorkEffortSearch.java
+END
+ICalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/ICalConverter.java
+END
+ICalRecurConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/ICalRecurConverter.java
+END
+ICalWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/ICalWorker.java
+END
+WorkEffortSearchSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/WorkEffortSearchSession.java
+END
+WorkEffortWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/WorkEffortWorker.java
+END
+WorkEffortSearchEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/WorkEffortSearchEvents.java
+END
+WorkEffortKeywordIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/WorkEffortKeywordIndex.java
+END
+WorkEffortPartyAssignmentServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/workeffort/src/org/ofbiz/workeffort/workeffort/WorkEffortPartyAssignmentServices.java
+END

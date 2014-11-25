@@ -1,0 +1,123 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/framework/service
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-25T09:15:10.154572Z
+1641549
+jleroux
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+testdef
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-25T13:20:42.614029Z
+6f6b5c6377f21815ee99f64ab87c1f90
+2013-05-13T22:30:25.088373Z
+1482125
+doogie
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3067
+
+servicedef
+dir
+
+documents
+dir
+
+config
+dir
+
+lib
+dir
+
+src
+dir
+
+ofbiz-component.xml
+file
+
+
+
+
+2014-11-25T13:20:42.614029Z
+9f963872e575610e2fb457f08a71a707
+2012-07-26T05:51:54.250836Z
+1365889
+jacopoc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4871
+
+data
+dir
+
+dtd
+dir
+
+entitydef
+dir
+

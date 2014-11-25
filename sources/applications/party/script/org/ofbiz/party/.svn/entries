@@ -1,0 +1,83 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/party/script/org/ofbiz/party
+http://svn.apache.org/repos/asf
+
+
+
+2014-08-16T18:36:05.418392Z
+1618396
+apatel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+content
+dir
+
+contact
+dir
+
+LookupServices.xml
+file
+
+
+
+
+2014-11-25T13:20:30.166029Z
+0db5470abbaeaaf5e12c360ee253cd8d
+2012-04-22T09:18:24.129239Z
+1328827
+adrianc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2040
+
+user
+dir
+
+party
+dir
+
+test
+dir
+
+customer
+dir
+
+communication
+dir
+

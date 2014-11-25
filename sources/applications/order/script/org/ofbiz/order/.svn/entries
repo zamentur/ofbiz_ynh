@@ -1,0 +1,98 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/order/script/org/ofbiz/order
+http://svn.apache.org/repos/asf
+
+
+
+2014-08-16T20:46:05.394248Z
+1618413
+ashish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+test
+dir
+
+requirement
+dir
+
+customer
+dir
+
+shoppinglist
+dir
+
+communication
+dir
+
+request
+dir
+
+thirdparty
+dir
+
+UpgradeServices.xml
+file
+
+
+
+
+2014-11-25T13:20:28.794029Z
+6e2a79fa5632a60ab716415fe7807f0f
+2012-04-22T09:18:24.129239Z
+1328827
+adrianc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6391
+
+olap
+dir
+
+order
+dir
+
+opportunity
+dir
+
+quote
+dir
+
+reports
+dir
+

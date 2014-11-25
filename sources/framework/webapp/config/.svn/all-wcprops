@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1626461/ofbiz/branches/release13.07/framework/webapp/config
+END
+WebappEntityLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/config/WebappEntityLabels.xml
+END
+freemarkerTransforms.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/config/freemarkerTransforms.properties
+END
+url.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1626461/ofbiz/branches/release13.07/framework/webapp/config/url.properties
+END
+WebappUiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/config/WebappUiLabels.xml
+END
+fop.xconf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/config/fop.xconf
+END
+serverstats.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/config/serverstats.properties
+END
+requestHandler.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/config/requestHandler.properties
+END
+wfs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/webapp/config/wfs.properties
+END

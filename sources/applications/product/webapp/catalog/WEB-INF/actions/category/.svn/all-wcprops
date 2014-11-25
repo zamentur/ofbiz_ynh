@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1618355/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/category
+END
+EditCategoryProducts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/category/EditCategoryProducts.groovy
+END
+EditCategoryContentContent.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/category/EditCategoryContentContent.groovy
+END
+EditCategorySEO.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/category/EditCategorySEO.groovy
+END
+CategoryTree.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/category/CategoryTree.groovy
+END
+CreateProductInCategoryCheckExisting.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/category/CreateProductInCategoryCheckExisting.groovy
+END
+EditCategory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1618355/ofbiz/branches/release13.07/applications/product/webapp/catalog/WEB-INF/actions/category/EditCategory.groovy
+END

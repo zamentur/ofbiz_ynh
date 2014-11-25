@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/dtd
+END
+service-catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/dtd/service-catalog.xml
+END
+service-group.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/dtd/service-group.xsd
+END
+service-mca.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/dtd/service-mca.xsd
+END
+service-config.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/dtd/service-config.xsd
+END
+services.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/dtd/services.xsd
+END
+service-eca.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/service/dtd/service-eca.xsd
+END

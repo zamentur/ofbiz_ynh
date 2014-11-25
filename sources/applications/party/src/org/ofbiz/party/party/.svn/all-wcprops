@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/party
+END
+PartyRelationshipHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/party/PartyRelationshipHelper.java
+END
+PartyTypeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/party/PartyTypeHelper.java
+END
+PartyServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/party/PartyServices.java
+END
+PartyRelationshipServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/party/PartyRelationshipServices.java
+END
+PartyWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/party/PartyWorker.java
+END
+PartyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/party/PartyHelper.java
+END

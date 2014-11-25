@@ -1,0 +1,116 @@
+10
+
+dir
+1641616
+http://svn.apache.org/repos/asf/ofbiz/branches/release13.07/applications/product/script/org/ofbiz/product
+http://svn.apache.org/repos/asf
+
+
+
+2014-11-15T21:22:11.636631Z
+1639921
+jleroux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+UpgradeServices.xml
+file
+
+
+
+
+2014-11-25T13:20:31.070029Z
+e09b2ff2cfa8a240a55e39f293a5e539
+2012-04-22T09:18:24.129239Z
+1328827
+adrianc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4456
+
+olap
+dir
+
+feature
+dir
+
+store
+dir
+
+promo
+dir
+
+inventory
+dir
+
+price
+dir
+
+supplier
+dir
+
+storage
+dir
+
+communication
+dir
+
+config
+dir
+
+cost
+dir
+
+catalog
+dir
+
+category
+dir
+
+imagemanagement
+dir
+
+test
+dir
+
+product
+dir
+
+subscription
+dir
+
+rental
+dir
+

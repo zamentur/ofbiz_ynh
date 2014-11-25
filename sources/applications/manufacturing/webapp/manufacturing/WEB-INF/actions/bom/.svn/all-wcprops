@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1533601/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/bom
+END
+FindProductBom.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1533601/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/bom/FindProductBom.groovy
+END
+BomSimulation.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/bom/BomSimulation.groovy
+END
+EditProductBom.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/manufacturing/webapp/manufacturing/WEB-INF/actions/bom/EditProductBom.groovy
+END

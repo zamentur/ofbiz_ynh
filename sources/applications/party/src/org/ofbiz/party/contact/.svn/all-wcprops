@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1639857/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/contact
+END
+ContactHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/contact/ContactHelper.java
+END
+ContactMechServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1639857/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/contact/ContactMechServices.java
+END
+ContactMechWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/src/org/ofbiz/party/contact/ContactMechWorker.java
+END

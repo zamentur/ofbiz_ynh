@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1621364/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party
+END
+addressMatchMap.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/addressMatchMap.ftl
+END
+findparty.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1560182/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/findparty.ftl
+END
+editeftaccount.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/editeftaccount.ftl
+END
+findMatches.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/findMatches.ftl
+END
+editGeoLocation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1557458/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/editGeoLocation.ftl
+END
+editShoppingList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1560182/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/editShoppingList.ftl
+END
+editgiftcard.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/editgiftcard.ftl
+END
+editcreditcard.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/editcreditcard.ftl
+END
+editcontactmech.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/party/webapp/partymgr/party/editcontactmech.ftl
+END

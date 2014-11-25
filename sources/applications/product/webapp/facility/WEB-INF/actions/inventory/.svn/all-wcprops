@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1581974/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory
+END
+FindFacilityPhysicalInventory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory/FindFacilityPhysicalInventory.groovy
+END
+ReceiveInventory.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory/ReceiveInventory.groovy
+END
+TransferInventoryItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory/TransferInventoryItem.groovy
+END
+InventoryItemTotals.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1581974/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory/InventoryItemTotals.groovy
+END
+PhysicalInventoryVariance.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory/PhysicalInventoryVariance.groovy
+END
+InventoryAverageCosts.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory/InventoryAverageCosts.groovy
+END
+LookupInventoryItems.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/applications/product/webapp/facility/WEB-INF/actions/inventory/LookupInventoryItems.groovy
+END

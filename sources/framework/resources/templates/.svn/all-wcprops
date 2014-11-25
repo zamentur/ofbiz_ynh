@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1632794/ofbiz/branches/release13.07/framework/resources/templates
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/web.xml
+END
+DemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/DemoData.xml
+END
+document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/document.xml
+END
+SecurityGroupDemoData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/SecurityGroupDemoData.xml
+END
+controller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/controller.xml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/services.xml
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/error.jsp
+END
+Forms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/Forms.xml
+END
+Menus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/Menus.xml
+END
+HELP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/HELP.xml
+END
+entitymodel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/entitymodel.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/build.xml
+END
+UiLabels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/UiLabels.xml
+END
+Tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/Tests.xml
+END
+Screens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/Screens.xml
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/index.jsp
+END
+AdminNewTenantData-PostgreSQL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/AdminNewTenantData-PostgreSQL.xml
+END
+AdminNewTenantData-Oracle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/AdminNewTenantData-Oracle.xml
+END
+AdminNewTenantData-MySQL.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/AdminNewTenantData-MySQL.xml
+END
+AdminNewTenantData-Derby.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/AdminNewTenantData-Derby.xml
+END
+ofbiz-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/ofbiz-component.xml
+END
+AdminUserLoginData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/AdminUserLoginData.xml
+END
+TypeData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/TypeData.xml
+END
+SecurityPermissionSeedData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/SecurityPermissionSeedData.xml
+END
+CommonScreens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1632794/ofbiz/branches/release13.07/framework/resources/templates/CommonScreens.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1505933/ofbiz/branches/release13.07/framework/resources/templates/README.txt
+END
