@@ -37,7 +37,12 @@ sudo mkdir -p $app_path
 sudo cp -a ../sources/* $app_path
 sudo cd /opt/ofbiz
 sudo ant
-sudo useradd -m ofbiz
+
+# Remove following line
+sudo ant load-demo
+# Remove previous line
+
+sudo useradd ofbiz
 sudo chown -R ofbiz /opt/ofbiz
 sudo chmod -R 700 /opt/ofbiz
 
