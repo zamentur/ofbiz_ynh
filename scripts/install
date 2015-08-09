@@ -15,7 +15,7 @@ if [[ ! $? -eq 0 ]]; then
 fi
 
 # Save app settings
-yunohost app setting $app admin -v "$admin"
+sudo yunohost app setting $app admin -v "$admin"
 #yunohost app setting $app is_public -v "$is_public"
 sudo apt-get install openjdk-7-jdk -y
 sudo apt-get install ant -y
