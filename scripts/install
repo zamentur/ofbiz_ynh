@@ -35,26 +35,27 @@ uri_path=/catalog/control/main
 sudo mkdir -p $final_path
 sudo mkdir -p $app_path
 sudo cp -a ../sources/. $app_path
-sudo cd /opt/ofbiz
+old_pwd=$(pwd)
+cd /opt/ofbiz
 sudo ant
-
 # Remove following line
 sudo ant load-demo
 # Remove previous line
+cd $old_pwd
 
 sudo useradd ofbiz
 sudo chown -R ofbiz /opt/ofbiz
 sudo chmod -R 700 /opt/ofbiz
 
 # Modify ofbiz deamon script configuration
-sed -i "s@YNH_USER_ADMIN@$admin@g" ../conf/rc.ofbiz.for.debian
+sudo sed -i "s@YNH_USER_ADMIN@$admin@g" ../conf/rc.ofbiz.for.debian
 sudo cp ../conf/rc.ofbiz.for.debian /etc/init.d/ofbiz
 sudo chown ofbiz /etc/init.d/ofbiz
 sudo chmod 700 /etc/init.d/ofbiz
 sudo update-rc.d ofbiz defaults 90
 
 echo "Nginx configuration (sso disabled)..."
-sed -i "s@YNH_LOCATION@$path@g" ../conf/nginx.conf
+sudo sed -i "s@YNH_LOCATION@$path@g" ../conf/nginx.conf
 sudo cp ../conf/nginx.conf /etc/nginx/conf.d/$domain.d/$app.conf
 sudo yunohost app setting $app skipped_uris -v "/"
 
